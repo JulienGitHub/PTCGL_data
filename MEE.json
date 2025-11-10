@@ -1,1 +1,254 @@
-{"data": {"ptcgoCode": "MEE", "expansion": {"de": null, "en": null, "es": null, "fr": null, "it": null, "la": null, "ptbr": null}}, "1": {"id": "mee_1", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Grass"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{G}-Energie", "en": "Basic {G} Energy", "es": "Energía {G} Básica", "fr": "Énergie {G} de base", "it": "Energia base {G}", "la": "Energía {G} Básica", "ptbr": "Energia {G} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}, "2": {"id": "mee_2", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Fire"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{R}-Energie", "en": "Basic {R} Energy", "es": "Energía {R} Básica", "fr": "Énergie {R} de base", "it": "Energia base {R}", "la": "Energía {R} Básica", "ptbr": "Energia {R} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}, "3": {"id": "mee_3", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Water"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{W}-Energie", "en": "Basic {W} Energy", "es": "Energía {W} Básica", "fr": "Énergie {W} de base", "it": "Energia base {W}", "la": "Energía {W} Básica", "ptbr": "Energia {W} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}, "4": {"id": "mee_4", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Lightning"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{L}-Energie", "en": "Basic {L} Energy", "es": "Energía {L} Básica", "fr": "Énergie {L} de base", "it": "Energia base {L}", "la": "Energía {L} Básica", "ptbr": "Energia {L} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}, "5": {"id": "mee_5", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Psychic"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{P}-Energie", "en": "Basic {P} Energy", "es": "Energía {P} Básica", "fr": "Énergie {P} de base", "it": "Energia base {P}", "la": "Energía {P} Básica", "ptbr": "Energia {P} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}, "6": {"id": "mee_6", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Fighting"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{F}-Energie", "en": "Basic {F} Energy", "es": "Energía {F} Básica", "fr": "Énergie {F} de base", "it": "Energia base {F}", "la": "Energía {F} Básica", "ptbr": "Energia {F} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}, "7": {"id": "mee_7", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Dark"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{D}-Energie", "en": "Basic {D} Energy", "es": "Energía {D} Básica", "fr": "Énergie {D} de base", "it": "Energia base {D}", "la": "Energía {D} Básica", "ptbr": "Energia {D} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}, "8": {"id": "mee_8", "supertype": "Energy", "subtypes": ["Basic Energy"], "types": ["Metal"], "hp": 0, "Release Date": "2025-09-25T17:00:00.0000000Z", "Craftable Date": null, "Craftable": 0, "name": {"de": "Basis-{M}-Energie", "en": "Basic {M} Energy", "es": "Energía {M} Básica", "fr": "Énergie {M} de base", "it": "Energia base {M}", "la": "Energía {M} Básica", "ptbr": "Energia {M} Básica"}, "regulation": "D", "rarity": {"CompSea": "Common", "Dust": "FreeBasicEnergy", "Loc": "FreeBasicEnergy"}, "rules": []}}
+{
+    "data": {
+        "ptcgoCode": "MEE",
+        "expansion": {
+            "de": null,
+            "en": null,
+            "es": null,
+            "fr": null,
+            "it": null,
+            "la": null,
+            "ptbr": null
+        }
+    },
+    "1": {
+        "id": "mee_1",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{G}-Energie",
+            "en": "Basic {G} Energy",
+            "es": "Energía {G} Básica",
+            "fr": "Énergie {G} de base",
+            "it": "Energia base {G}",
+            "la": "Energía {G} Básica",
+            "ptbr": "Energia {G} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    },
+    "2": {
+        "id": "mee_2",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Fire"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{R}-Energie",
+            "en": "Basic {R} Energy",
+            "es": "Energía {R} Básica",
+            "fr": "Énergie {R} de base",
+            "it": "Energia base {R}",
+            "la": "Energía {R} Básica",
+            "ptbr": "Energia {R} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    },
+    "3": {
+        "id": "mee_3",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{W}-Energie",
+            "en": "Basic {W} Energy",
+            "es": "Energía {W} Básica",
+            "fr": "Énergie {W} de base",
+            "it": "Energia base {W}",
+            "la": "Energía {W} Básica",
+            "ptbr": "Energia {W} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    },
+    "4": {
+        "id": "mee_4",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{L}-Energie",
+            "en": "Basic {L} Energy",
+            "es": "Energía {L} Básica",
+            "fr": "Énergie {L} de base",
+            "it": "Energia base {L}",
+            "la": "Energía {L} Básica",
+            "ptbr": "Energia {L} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    },
+    "5": {
+        "id": "mee_5",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{P}-Energie",
+            "en": "Basic {P} Energy",
+            "es": "Energía {P} Básica",
+            "fr": "Énergie {P} de base",
+            "it": "Energia base {P}",
+            "la": "Energía {P} Básica",
+            "ptbr": "Energia {P} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    },
+    "6": {
+        "id": "mee_6",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{F}-Energie",
+            "en": "Basic {F} Energy",
+            "es": "Energía {F} Básica",
+            "fr": "Énergie {F} de base",
+            "it": "Energia base {F}",
+            "la": "Energía {F} Básica",
+            "ptbr": "Energia {F} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    },
+    "7": {
+        "id": "mee_7",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{D}-Energie",
+            "en": "Basic {D} Energy",
+            "es": "Energía {D} Básica",
+            "fr": "Énergie {D} de base",
+            "it": "Energia base {D}",
+            "la": "Energía {D} Básica",
+            "ptbr": "Energia {D} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    },
+    "8": {
+        "id": "mee_8",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic Energy"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 0,
+        "Release Date": "2025-09-25T17:00:00.0000000Z",
+        "Craftable Date": null,
+        "Craftable": 0,
+        "name": {
+            "de": "Basis-{M}-Energie",
+            "en": "Basic {M} Energy",
+            "es": "Energía {M} Básica",
+            "fr": "Énergie {M} de base",
+            "it": "Energia base {M}",
+            "la": "Energía {M} Básica",
+            "ptbr": "Energia {M} Básica"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "Common",
+            "Dust": "FreeBasicEnergy",
+            "Loc": "FreeBasicEnergy"
+        },
+        "rules": []
+    }
+}
