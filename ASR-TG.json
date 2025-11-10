@@ -1,1 +1,2954 @@
-{"data": {"ptcgoCode": "ASR-TG", "expansion": {"de": null, "en": null, "es": null, "fr": null, "it": null, "la": null, "ptbr": null}}, "1": {"id": "swsh10a_1", "supertype": "Pokémon", "subtypes": ["Single Strike", "Stage 1"], "types": ["Grass"], "hp": 140, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Snover", "name": {"de": "Rexblisar", "en": "Abomasnow", "es": "Abomasnow", "fr": "Blizzaroi", "it": "Abomasnow", "la": "Abomasnow", "ptbr": "Abomasnow"}, "regulation": "E", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 3, "attacks": [{"en": {"name": "Mega Punch", "text": ""}, "cost": "", "damage": "", "de": {"name": "Megahieb", "text": ""}, "es": {"name": "Megapuño", "text": ""}, "fr": {"name": "Ultimapoing", "text": ""}, "it": {"name": "Megapugno", "text": ""}, "la": {"name": "Megapuño", "text": ""}, "ptbr": {"name": "Megassoco", "text": ""}}], "abilities": [{"en": {"name": "[Ability] Toughness Boost", "text": "Your Single Strike Pokémon in play, except any Abomasnow, get +50 HP. You can't apply more than 1 Toughness Boost Ability at a time."}, "de": {"name": "[Ability] Stärkeschub", "text": "Deine Fokussierter-Angriff-Pokémon im Spiel, außer Rexblisar, erhalten +50 KP. Du kannst immer nur jeweils 1 Fähigkeit Stärkeschub einsetzen."}, "es": {"name": "[Ability] Impulso Vigorizante", "text": "Tus Pokémon Golpe Brusco en juego, excepto los Abomasnow, obtienen 50 PS más. No puedes aplicar más de 1 habilidad Impulso Vigorizante a la vez."}, "fr": {"name": "[Ability] Boost d'Endurance", "text": "Vos Pokémon Poing Final en jeu, à l'exception de Blizzaroi, reçoivent +50 PV. Vous ne pouvez utiliser qu'un talent Boost d'Endurance à la fois."}, "it": {"name": "[Ability] Carica di Tenacia", "text": "I tuoi Pokémon Colpo Singolo in gioco, a eccezione di qualsiasi Abomasnow, hanno 50 PS in più. Non puoi applicare più di un'abilità Carica di Tenacia alla volta."}, "la": {"name": "[Ability] Impulso Vigorizante", "text": "Tus Pokémon Golpe Brusco en juego, excepto los Abomasnow, obtienen 50 PS más. No puedes aplicar más de 1 habilidad Impulso Vigorizante a la vez."}, "ptbr": {"name": "[Ability] Impulso da Determinação", "text": "Seus Pokémon Golpe Decisivo em jogo, exceto por quaisquer Abomasnow, recebem 50 PS a mais. Você não pode usar mais de 1 Habilidade Impulso da Determinação por vez."}}], "weaknesses": {"type": "Fire", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "2": {"id": "swsh10a_2", "supertype": "Pokémon", "subtypes": ["Stage 1"], "types": ["Grass"], "hp": 80, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Applin", "name": {"de": "Drapfel", "en": "Flapple", "es": "Flapple", "fr": "Pomdrapi", "it": "Flapple", "la": "Flapple", "ptbr": "Flapple"}, "regulation": "D", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 1, "attacks": [{"en": {"name": "Acid Spray", "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."}, "cost": "", "damage": "", "de": {"name": "Säurespeier", "text": "Wirf 1 Münze. Lege bei Kopf 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."}, "es": {"name": "Bomba Ácida", "text": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival."}, "fr": {"name": "Bombe Acide", "text": "Lancez une pièce. Si c'est face, défaussez une Énergie du Pokémon Actif de votre adversaire."}, "it": {"name": "Acidobomba", "text": "Lancia una moneta. Se esce testa, scarta un'Energia dal Pokémon attivo del tuo avversario."}, "la": {"name": "Bomba Ácida", "text": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival."}, "ptbr": {"name": "Spray Ácido", "text": "Jogue 1 moeda. Se sair cara, descarte 1 Energia do Pokémon Ativo do seu oponente."}}], "abilities": [{"en": {"name": "[Ability] Apple Drop", "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon. If you placed any damage counters in this way, shuffle this Pokémon and all attached cards into your deck."}, "de": {"name": "[Ability] Apfelfall", "text": "Einmal während deines Zuges kannst du 2 Schadensmarken auf 1 Pokémon deines Gegners legen. Wenn du auf diese Weise Schadensmarken platziert hast, mische dieses Pokémon und alle angelegten Karten in dein Deck."}, "es": {"name": "[Ability] Caída de Manzanas", "text": "Una vez durante tu turno, puedes poner 2 contadores de daño en 1 de los Pokémon de tu rival. Si has puesto algún contador de daño de esta manera, pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas."}, "fr": {"name": "[Ability] Chute de Pommes", "text": "Une fois pendant votre tour, vous pouvez placer 2 marqueurs de dégâts sur l'un des Pokémon de votre adversaire. Si vous avez placé des marqueurs de dégâts de cette façon, mélangez dans votre deck ce Pokémon et toutes les cartes attachées."}, "it": {"name": "[Ability] Caduta Mele", "text": "Una sola volta durante il tuo turno, puoi mettere due segnalini danno su uno dei Pokémon del tuo avversario. Se hai messo dei segnalini danno in questo modo, rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo."}, "la": {"name": "[Ability] Caída de Manzanas", "text": "Una vez durante tu turno, puedes poner 2 contadores de daño en 1 de los Pokémon de tu rival. Si has puesto algún contador de daño de esta manera, pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas."}, "ptbr": {"name": "[Ability] Maçã Caída", "text": "Uma vez durante o seu turno, você poderá colocar 2 contadores de dano em 1 dos Pokémon do seu oponente. Se você colocou algum contador de dano desta forma, embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho."}}], "weaknesses": {"type": "Fire", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "3": {"id": "swsh10a_3", "supertype": "Pokémon", "subtypes": ["Stage 2"], "types": ["Water"], "hp": 150, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Horsea", "name": {"de": "Seedraking", "en": "Kingdra", "es": "Kingdra", "fr": "Hyporoi", "it": "Kingdra", "la": "Kingdra", "ptbr": "Kingdra"}, "regulation": "E", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 1, "attacks": [{"en": {"name": "Aqua Burst", "text": "This attack does 40 damage for each water Energy attached to this Pokémon."}, "cost": "", "damage": "", "de": {"name": "Aquasalve", "text": "Diese Attacke fügt für jede an dieses Pokémon angelegte water-Energie 40 Schadenspunkte zu."}, "es": {"name": "Estallido Acuático", "text": "Este ataque hace 40 puntos de daño por cada Energía water unida a este Pokémon."}, "fr": {"name": "Éclat Aquatique", "text": "Cette attaque inflige 40 dégâts pour chaque Énergie water attachée à ce Pokémon."}, "it": {"name": "Idroscoppio", "text": "Questo attacco infligge 40 danni per ogni Energia water assegnata a questo Pokémon."}, "la": {"name": "Estallido Acuático", "text": "Este ataque hace 40 puntos de daño por cada Energía water unida a este Pokémon."}, "ptbr": {"name": "Explosão Aquática", "text": "Este ataque causa 40 pontos de dano para cada Energia water ligada a este Pokémon."}}], "abilities": [{"en": {"name": "[Ability] Deep Sea King", "text": "When your Active Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move any amount of water Energy from that Pokémon to this Pokémon."}, "de": {"name": "[Ability] Tiefseekönig", "text": "Wenn dein Aktives Pokémon durch Schaden einer Attacke der Pokémon deines Gegners kampfunfähig wird, kannst du beliebig viele water-Energien von jenem Pokémon auf dieses Pokémon verschieben."}, "es": {"name": "[Ability] Rey del Mar Profundo", "text": "Cuando tu Pokémon Activo queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, puedes mover cualquier cantidad de Energías water de ese Pokémon a este Pokémon."}, "fr": {"name": "[Ability] Roi des Abysses", "text": "Lorsque votre Pokémon Actif est mis K.O. par les dégâts d'une attaque de l'un des Pokémon de votre adversaire, vous pouvez déplacer autant d'Énergie water que vous le voulez de ce Pokémon-là vers celui-ci."}, "it": {"name": "[Ability] Re degli Abissi", "text": "Quando il tuo Pokémon attivo viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, puoi spostare un numero qualsiasi di Energie water da quel Pokémon a questo Pokémon."}, "la": {"name": "[Ability] Rey del Mar Profundo", "text": "Cuando tu Pokémon Activo queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, puedes mover cualquier cantidad de Energías water de ese Pokémon a este Pokémon."}, "ptbr": {"name": "[Ability] Rei do Mar Profundo", "text": "Quando seu Pokémon Ativo for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, você poderá mover qualquer quantidade de Energia water daquele Pokémon para este Pokémon."}}], "weaknesses": {"type": "Lightning", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "4": {"id": "swsh10a_4", "supertype": "Pokémon", "subtypes": ["Stage 1"], "types": ["Water"], "hp": 90, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "", "name": {"de": "Mottineva", "en": "Frosmoth", "es": "Frosmoth", "fr": "Beldeneige", "it": "Frosmoth", "la": "Frosmoth", "ptbr": "Frosmoth"}, "regulation": "D", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 2, "attacks": [{"en": {"name": "Aurora Beam", "text": ""}, "cost": "", "damage": "", "de": {"name": "Aurorastrahl", "text": ""}, "es": {"name": "Rayo Aurora", "text": ""}, "fr": {"name": "Onde Boréale", "text": ""}, "it": {"name": "Raggiaurora", "text": ""}, "la": {"name": "Rayo Aurora", "text": ""}, "ptbr": {"name": "Raio Aurora", "text": ""}}], "abilities": [{"en": {"name": "[Ability] Ice Dance", "text": "As often as you like during your turn, you may attach a water Energy card from your hand to 1 of your Benched water Pokémon."}, "de": {"name": "[Ability] Eistanz", "text": "Beliebig oft während deines Zuges kannst du 1 water-Energiekarte aus deiner Hand an 1 water-Pokémon auf deiner Bank anlegen."}, "es": {"name": "[Ability] Danza Helada", "text": "Todas las veces que quieras durante tu turno, puedes unir 1 carta de Energía water de tu mano a 1 de tus Pokémon water en Banca."}, "fr": {"name": "[Ability] Danse de Glace", "text": "Autant de fois que vous le voulez pendant votre tour, vous pouvez attacher une carte Énergie water de votre main à l'un de vos Pokémon water de Banc."}, "it": {"name": "[Ability] Danza del Ghiaccio", "text": "Durante il tuo turno, puoi assegnare a uno dei tuoi Pokémon water in panchina una carta Energia water dalla tua mano tutte le volte che vuoi."}, "la": {"name": "[Ability] Danza Helada", "text": "Todas las veces que quieras durante tu turno, puedes unir 1 carta de Energía water de tu mano a 1 de tus Pokémon water en Banca."}, "ptbr": {"name": "[Ability] Dança de Gelo", "text": "Quantas vezes desejar durante o seu turno, você poderá ligar 1 carta de Energia water da sua mão a 1 dos seus Pokémon water no Banco."}}], "weaknesses": {"type": "Metal", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "5": {"id": "swsh10a_5", "supertype": "Pokémon", "subtypes": ["Stage 2"], "types": ["Psychic"], "hp": 140, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "", "name": {"de": "Guardevoir", "en": "Gardevoir", "es": "Gardevoir", "fr": "Gardevoir", "it": "Gardevoir", "la": "Gardevoir", "ptbr": "Gardevoir"}, "regulation": "E", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 2, "attacks": [{"en": {"name": "Brainwave", "text": "This attack does 30 more damage for each psychic Energy attached to this Pokémon."}, "cost": "", "damage": "", "de": {"name": "Gehirnwelle", "text": "Diese Attacke fügt für jede an dieses Pokémon angelegte psychic-Energie 30 Schadenspunkte mehr zu."}, "es": {"name": "Onda Cerebral", "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a este Pokémon."}, "fr": {"name": "Onde Cérébrale", "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie psychic attachée à ce Pokémon."}, "it": {"name": "Onda Cerebrale", "text": "Questo attacco infligge 30 danni in più per ogni Energia psychic assegnata a questo Pokémon."}, "la": {"name": "Onda Cerebral", "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a este Pokémon."}, "ptbr": {"name": "Onda Cerebral", "text": "Este ataque causa 30 pontos de dano a mais para cada Energia psychic ligada a este Pokémon."}}], "abilities": [{"en": {"name": "[Ability] Shining Arcana", "text": "Once during your turn, you may look at the top 2 cards of your deck and attach any number of basic Energy cards you find there to your Pokémon in any way you like. Put the other cards into your hand."}, "de": {"name": "[Ability] Schimmernde Arkana", "text": "Einmal während deines Zuges kannst du dir die obersten 2 Karten deines Decks anschauen und beliebig viele Basis-Energiekarten, die du dort findest, beliebig an deine Pokémon anlegen. Nimm die anderen Karten auf deine Hand."}, "es": {"name": "[Ability] Arcano Radiante", "text": "Una vez durante tu turno, puedes mirar las 2 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas en tu mano."}, "fr": {"name": "[Ability] Arcane Brillant", "text": "Une fois pendant votre tour, vous pouvez regarder les 2 cartes du dessus de votre deck puis attacher le nombre voulu de cartes Énergie de base que vous y trouvez à vos Pokémon, comme il vous plaît. Ajoutez les autres cartes à votre main."}, "it": {"name": "[Ability] Arcani Lucenti", "text": "Una sola volta durante il tuo turno, puoi guardare le prime due carte del tuo mazzo e assegnare un numero qualsiasi di carte Energia base presenti tra esse ai tuoi Pokémon nel modo che preferisci. Aggiungi le altre carte a quelle che hai in mano."}, "la": {"name": "[Ability] Arcano Radiante", "text": "Una vez durante tu turno, puedes mirar las 2 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas en tu mano."}, "ptbr": {"name": "[Ability] Arcano Brilhante", "text": "Uma vez durante o seu turno, você poderá olhar as 2 cartas de cima do seu baralho e ligar qualquer número de cartas de Energia básica que encontrar lá aos seus Pokémon como desejar. Coloque as outras cartas na sua mão."}}], "weaknesses": {"type": "Metal", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "6": {"id": "swsh10a_6", "supertype": "Pokémon", "subtypes": ["Stage 1"], "types": ["Psychic"], "hp": 140, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Stantler", "name": {"de": "Damythir", "en": "Wyrdeer", "es": "Wyrdeer", "fr": "Cerbyllin", "it": "Wyrdeer", "la": "Wyrdeer", "ptbr": "Wyrdeer"}, "regulation": "F", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 2, "attacks": [{"en": {"name": "Extrasensory", "text": "If you have the same number of cards in your hand as your opponent, this attack does 80 more damage."}, "cost": "", "damage": "", "de": {"name": "Sondersensor", "text": "Wenn du genauso viele Karten auf der Hand hast wie dein Gegner, fügt diese Attacke 80 Schadenspunkte mehr zu."}, "es": {"name": "Paranormal", "text": "Si tienes la misma cantidad de cartas en tu mano que tu rival, este ataque hace 80 puntos de daño más."}, "fr": {"name": "Extrasenseur", "text": "Si vous avez le même nombre de cartes dans votre main que votre adversaire, cette attaque inflige 80 dégâts supplémentaires."}, "it": {"name": "Extrasenso", "text": "Se hai lo stesso numero di carte in mano del tuo avversario, questo attacco infligge 80 danni in più."}, "la": {"name": "Paranormal", "text": "Si tienes la misma cantidad de cartas en tu mano que tu rival, este ataque hace 80 puntos de daño más."}, "ptbr": {"name": "Extrassensorial", "text": "Se você tiver o mesmo número de cartas na sua mão do que seu oponente, este ataque causará 80 pontos de dano a mais."}}], "abilities": [{"en": {"name": "[Ability] Hurried Gait", "text": "Once during your turn, you may draw a card."}, "de": {"name": "[Ability] Eiliger Gang", "text": "Einmal während deines Zuges kannst du 1 Karte ziehen."}, "es": {"name": "[Ability] Marcha Apresurada", "text": "Una vez durante tu turno, puedes robar 1 carta."}, "fr": {"name": "[Ability] Allure Pressée", "text": "Une fois pendant votre tour, vous pouvez piocher une carte."}, "it": {"name": "[Ability] Andatura Frettolosa", "text": "Una sola volta durante il tuo turno, puoi pescare una carta."}, "la": {"name": "[Ability] Marcha Apresurada", "text": "Una vez durante tu turno, puedes robar 1 carta."}, "ptbr": {"name": "[Ability] Marcha Apressada", "text": "Uma vez durante o seu turno, você poderá comprar 1 carta."}}], "weaknesses": {"type": "Dark", "amount": "2"}, "resistance": {"type": "Fighting", "amount": "-30"}}, "7": {"id": "swsh10a_7", "supertype": "Pokémon", "subtypes": ["Rapid Strike", "Basic Stage"], "types": ["Fighting"], "hp": 110, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Falinks", "name": {"de": "Legios", "en": "Falinks", "es": "Falinks", "fr": "Hexadron", "it": "Falinks", "la": "Falinks", "ptbr": "Falinks"}, "regulation": "E", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 2, "attacks": [{"en": {"name": "Rapid Strike Squad", "text": "This attack does 20 damage for each of your Rapid Strike Pokémon in play."}, "cost": "FC", "damage": "20Ã", "de": {"name": "Fließender-Angriff-Trupp", "text": "Diese Attacke fügt für jedes deiner Fließender-Angriff-Pokémon im Spiel 20 Schadenspunkte zu."}, "es": {"name": "Escuadrón Golpe Fluido", "text": "Este ataque hace 20 puntos de daño por cada uno de tus Pokémon Golpe Fluido en juego."}, "fr": {"name": "Brigade à Mille Poings", "text": "Cette attaque inflige 20 dégâts pour chacun de vos Pokémon Mille Poings en jeu."}, "it": {"name": "Squadra Colpo Rapido", "text": "Questo attacco infligge 20 danni per ogni tuo Pokémon Colpo Rapido in gioco."}, "la": {"name": "Escuadrón Golpe Fluido", "text": "Este ataque hace 20 puntos de daño por cada uno de tus Pokémon Golpe Fluido en juego."}, "ptbr": {"name": "Esquadrão Golpe Fluido", "text": "Este ataque causa 20 pontos de dano para cada um dos seus Pokémon Golpe Fluido em jogo."}}], "abilities": [], "weaknesses": {"type": "Psychic", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "8": {"id": "swsh10a_8", "supertype": "Pokémon", "subtypes": ["Stage 1"], "types": ["Fighting"], "hp": 140, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Scyther", "name": {"de": "Axantor", "en": "Kleavor", "es": "Kleavor", "fr": "Hachécateur", "it": "Kleavor", "la": "Kleavor", "ptbr": "Kleavor"}, "regulation": "F", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 2, "attacks": [{"en": {"name": "Timber Cleave", "text": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."}, "cost": "CC", "damage": "", "de": {"name": "Baumspalter", "text": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, ist das Aktive Pokémon deines Gegners kampfunfähig."}, "es": {"name": "Cortamadera", "text": "Lanza 2 monedas. Si ambas son cara, el Pokémon Activo de tu rival queda Fuera de Combate."}, "fr": {"name": "Découpe Bois", "text": "Lancez 2 pièces. Si vous obtenez 2 côtés face, le Pokémon Actif de votre adversaire est mis K.O."}, "it": {"name": "Fendente Legnoso", "text": "Lancia due volte una moneta. Se esce entrambe le volte testa, il Pokémon attivo del tuo avversario viene messo KO."}, "la": {"name": "Cortamadera", "text": "Lanza 2 monedas. Si ambas son cara, el Pokémon Activo de tu rival queda Fuera de Combate."}, "ptbr": {"name": "Cutelo de Madeira", "text": "Jogue 2 moedas. Se as duas saírem cara, o Pokémon Ativo do seu oponente será Nocauteado."}}, {"en": {"name": "Berserker Tackle", "text": "This Pokémon also does 30 damage to itself."}, "cost": "CC", "damage": "", "de": {"name": "Berserkerwut", "text": "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu."}, "es": {"name": "Placaje Locura", "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."}, "fr": {"name": "Charge Folle", "text": "Ce Pokémon s'inflige aussi 30 dégâts."}, "it": {"name": "Assalto Brado", "text": "Questo Pokémon infligge anche 30 danni a se stesso."}, "la": {"name": "Placaje Locura", "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."}, "ptbr": {"name": "Investida Frenética", "text": "Este Pokémon também causa 30 pontos de dano a si mesmo."}}], "abilities": [], "weaknesses": {"type": "Grass", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "9": {"id": "swsh10a_9", "supertype": "Pokémon", "subtypes": ["Stage 1"], "types": ["Dark"], "hp": 110, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "", "name": {"de": "Magnayen", "en": "Mightyena", "es": "Mightyena", "fr": "Grahyèna", "it": "Mightyena", "la": "Mightyena", "ptbr": "Mightyena"}, "regulation": "F", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 2, "attacks": [{"en": {"name": "Wild Tackle", "text": "This Pokémon also does 50 damage to itself."}, "cost": "", "damage": "", "de": {"name": "Wilder Tackle", "text": "Dieses Pokémon fügt auch sich selbst 50 Schadenspunkte zu."}, "es": {"name": "Placaje Salvaje", "text": "Este Pokémon también se hace 50 puntos de daño a sí mismo."}, "fr": {"name": "Tacle Brutal", "text": "Ce Pokémon s'inflige aussi 50 dégâts."}, "it": {"name": "Azionferoce", "text": "Questo Pokémon infligge anche 50 danni a se stesso."}, "la": {"name": "Placaje Salvaje", "text": "Este Pokémon también se hace 50 puntos de daño a sí mismo."}, "ptbr": {"name": "Investida Feroz", "text": "Este Pokémon também causa 50 pontos de dano a si mesmo."}}], "abilities": [{"en": {"name": "[Ability] Hustle Bark", "text": "If your opponent has any Pokémon vMax_atk in play, this Pokémon's attacks cost colorlesscolorlesscolorless less."}, "de": {"name": "[Ability] Ehrgeiziges Bellen", "text": "Wenn dein Gegner mindestens 1 Pokémon-vMax_atk im Spiel hat, verringern sich die Kosten der Attacken dieses Pokémon um colorlesscolorlesscolorless."}, "es": {"name": "[Ability] Ladrido Apremiante", "text": "Si tu rival tiene algún Pokémon vMax_atk en juego, los ataques de este Pokémon cuestan colorlesscolorlesscolorless menos."}, "fr": {"name": "[Ability] Aboiement Acharné", "text": "Si votre adversaire a au moins un Pokémon-vMax_atk en jeu, les attaques de ce Pokémon coûtent colorlesscolorlesscolorless de moins."}, "it": {"name": "[Ability] Abbaiare Frenetico", "text": "Se il tuo avversario ha dei Pokémon-vMax_atk in gioco, il costo degli attacchi di questo Pokémon è ridotto di colorlesscolorlesscolorless."}, "la": {"name": "[Ability] Ladrido Apremiante", "text": "Si tu rival tiene algún Pokémon vMax_atk en juego, los ataques de este Pokémon cuestan colorlesscolorlesscolorless menos."}, "ptbr": {"name": "[Ability] Latido Alvoroçado", "text": "Se o seu oponente tiver algum Pokémon vMax_atk em jogo, os ataques deste Pokémon custarão colorlesscolorlesscolorless a menos."}}], "weaknesses": {"type": "Grass", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "10": {"id": "swsh10a_10", "supertype": "Pokémon", "subtypes": ["Stage 2"], "types": ["Dark"], "hp": 160, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "", "name": {"de": "Galar-Barrikadax", "en": "Galarian Obstagoon", "es": "Obstagoon de Galar", "fr": "Ixon de Galar", "it": "Obstagoon di Galar", "la": "Obstagoon de Galar", "ptbr": "Obstagoon de Galar"}, "regulation": "D", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 2, "attacks": [{"en": {"name": "Obstruct", "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."}, "cost": "", "damage": "", "de": {"name": "Abblocker", "text": "Verhindere während des nächsten Zuges deines Gegners allen Schaden, der diesem Pokémon durch Attacken von Basis-Pokémon zugefügt wird."}, "es": {"name": "Obstrucción", "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Básicos."}, "fr": {"name": "Blocage", "text": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon de base."}, "it": {"name": "Sbarramento", "text": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon Base."}, "la": {"name": "Obstrucción", "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Básicos."}, "ptbr": {"name": "Obstruir", "text": "Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques de Pokémon Básicos."}}], "abilities": [{"en": {"name": "[Ability] Untamed Shout", "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon."}, "de": {"name": "[Ability] Ungezähmter Schrei", "text": "Wenn du dieses Pokémon während deines Zuges aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 3 Schadensmarken auf 1 Pokémon deines Gegners legen."}, "es": {"name": "[Ability] Grito Salvaje", "text": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes poner 3 contadores de daño en 1 de los Pokémon de tu rival."}, "fr": {"name": "[Ability] Cri Sauvage", "text": "Lorsque vous jouez ce Pokémon de votre main pour faire évoluer l'un de vos Pokémon pendant votre tour, vous pouvez placer 3 marqueurs de dégâts sur l'un des Pokémon de votre adversaire."}, "it": {"name": "[Ability] Squarciagola", "text": "Quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon durante il tuo turno, puoi mettere tre segnalini danno su uno dei Pokémon del tuo avversario."}, "la": {"name": "[Ability] Grito Salvaje", "text": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes poner 3 contadores de daño en 1 de los Pokémon de tu rival."}, "ptbr": {"name": "[Ability] Grito Indomado", "text": "Quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon durante o seu turno, você poderá colocar 3 contadores de dano em 1 dos Pokémon do seu oponente."}}], "weaknesses": {"type": "Grass", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "11": {"id": "swsh10a_11", "supertype": "Pokémon", "subtypes": ["Stage 1"], "types": ["Metal"], "hp": 110, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Bronzor", "evolvesInto": {"de": ["Bronzong BREAK"], "en": ["Bronzong BREAK"], "es": ["Bronzong BREAK"], "fr": ["Bronzong BREAK"], "it": ["Bronzong BREAK"], "la": ["Bronzong BREAK"], "ptbr": ["Bronzong BREAK"]}, "name": {"de": "Bronzong", "en": "Bronzong", "es": "Bronzong", "fr": "Archéodong", "it": "Bronzong", "la": "Bronzong", "ptbr": "Bronzong"}, "regulation": "E", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 3, "attacks": [{"en": {"name": "Zen Headbutt", "text": ""}, "cost": "", "damage": "", "de": {"name": "Zen-Kopfstoß", "text": ""}, "es": {"name": "Cabezazo Zen", "text": ""}, "fr": {"name": "Psykoud'Boul", "text": ""}, "it": {"name": "Cozzata Zen", "text": ""}, "la": {"name": "Cabezazo Zen", "text": ""}, "ptbr": {"name": "Cabeçada Zen", "text": ""}}], "abilities": [{"en": {"name": "[Ability] Metal Transfer", "text": "As often as you like during your turn, you may move a metal Energy from 1 of your Pokémon to another of your Pokémon."}, "de": {"name": "[Ability] Metalltransfer", "text": "Beliebig oft während deines Zuges kannst du 1 metal-Energie von 1 deiner Pokémon auf 1 anderes deiner Pokémon verschieben."}, "es": {"name": "[Ability] Traspaso Metálico", "text": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía metal de 1 de tus Pokémon a otro de tus Pokémon."}, "fr": {"name": "[Ability] Transfert de Métal", "text": "Autant de fois que vous le voulez pendant votre tour, vous pouvez déplacer une Énergie metal de l'un de vos Pokémon vers un autre de vos Pokémon."}, "it": {"name": "[Ability] Spostametallo", "text": "Durante il tuo turno, puoi spostare un'Energia metal da uno a un altro dei tuoi Pokémon tutte le volte che vuoi."}, "la": {"name": "[Ability] Traspaso Metálico", "text": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía metal de 1 de tus Pokémon a otro de tus Pokémon."}, "ptbr": {"name": "[Ability] Transferência de Metal", "text": "Quantas vezes desejar durante o seu turno, você poderá mover 1 Energia metal de 1 dos seus Pokémon para outro Pokémon seu."}}], "weaknesses": {"type": "Fire", "amount": "2"}, "resistance": {"type": "Grass", "amount": "-30"}}, "12": {"id": "swsh10a_12", "supertype": "Pokémon", "subtypes": ["Basic Stage"], "types": ["Colorless"], "hp": 50, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Hoothoot", "evolvesInto": {"de": ["Noctowl"], "en": ["Noctowl"], "es": ["Noctowl"], "fr": ["Noctowl"], "it": ["Noctowl"], "la": ["Noctowl"], "ptbr": ["Noctowl"]}, "name": {"de": "Hoothoot", "en": "Hoothoot", "es": "Hoothoot", "fr": "Hoothoot", "it": "Hoothoot", "la": "Hoothoot", "ptbr": "Hoothoot"}, "regulation": "F", "rarity": {"CompSea": "CharacterRare", "Dust": "CharacterRare", "Loc": "CharacterRare"}, "retreat": 1, "attacks": [{"en": {"name": "Flap", "text": ""}, "cost": "", "damage": "", "de": {"name": "Flattern", "text": ""}, "es": {"name": "Aleteo", "text": ""}, "fr": {"name": "Battement", "text": ""}, "it": {"name": "Alabattito", "text": ""}, "la": {"name": "Aleteo", "text": ""}, "ptbr": {"name": "Asa", "text": ""}}], "abilities": [{"en": {"name": "[Ability] Stand Sentry", "text": "Basic Energy attached to your Benched Pokémon can't be discarded by an effect of your opponent's Item or Supporter cards."}, "de": {"name": "[Ability] Wache stehen", "text": "An die Pokémon auf deiner Bank angelegte Basis-Energien können nicht durch einen Effekt von Item- oder Unterstützerkarten deines Gegners auf deinen Ablagestapel gelegt werden."}, "es": {"name": "[Ability] Posición Centinela", "text": "Las Energías Básicas unidas a tus Pokémon en Banca no pueden descartarse por ningún efecto de las cartas de Objeto o de Partidario de tu rival."}, "fr": {"name": "[Ability] Veilleur au Guet", "text": "Les Énergies de base attachées à vos Pokémon de Banc ne peuvent pas être défaussées par les effets des cartes Objet ou Supporter de votre adversaire."}, "it": {"name": "[Ability] Sentinella in Posizione", "text": "Nessuna Energia base assegnata ai tuoi Pokémon in panchina può essere scartata per effetto delle carte Strumento o carte Aiuto del tuo avversario."}, "la": {"name": "[Ability] Posición Centinela", "text": "Las Energías Básicas unidas a tus Pokémon en Banca no pueden descartarse por ningún efecto de las cartas de Objeto o de Partidario de tu rival."}, "ptbr": {"name": "[Ability] Ficar de Sentinela", "text": "Energias básicas ligadas aos seus Pokémon no Banco não podem ser descartadas pelos efeitos de cartas de Item ou Apoiador do seu oponente."}}], "weaknesses": {"type": "Lightning", "amount": "2"}, "resistance": {"type": "Fighting", "amount": "-30"}}, "13": {"id": "swsh10a_13", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Water"], "hp": 190, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Starmie V", "name": {"de": "Starmie-V", "en": "Starmie V", "es": "Starmie V", "fr": "Staross-V", "it": "Starmie-V", "la": "Starmie V", "ptbr": "Starmie V"}, "regulation": "F", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 0, "attacks": [{"en": {"name": "Swift", "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."}, "cost": "CC", "damage": "50", "de": {"name": "Sternschauer", "text": "Der Schaden dieser Attacke wird durch Schwäche, Resistenz oder Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert."}, "es": {"name": "Rapidez", "text": "El daño de este ataque no se ve afectado por Debilidad o Resistencia, o por ningún efecto en el Pokémon Activo de tu rival."}, "fr": {"name": "Météores", "text": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur le Pokémon Actif de votre adversaire."}, "it": {"name": "Comete", "text": "I danni di questo attacco non sono influenzati dalla debolezza o dalla resistenza, o da alcun effetto presente sul Pokémon attivo del tuo avversario."}, "la": {"name": "Rapidez", "text": "El daño de este ataque no se ve afectado por Debilidad o Resistencia, o por ningún efecto en el Pokémon Activo de tu rival."}, "ptbr": {"name": "Ataque Veloz", "text": "O dano deste ataque não é afetado por Fraqueza ou Resistência, ou por quaisquer efeitos no Pokémon Ativo do seu oponente."}}, {"en": {"name": "Energy Spiral", "text": "This attack does 50 damage for each Energy attached to all of your opponent's Pokémon."}, "cost": "CC", "damage": "50", "de": {"name": "Energiespirale", "text": "Diese Attacke fügt für jede an alle Pokémon deines Gegners angelegte Energie 50 Schadenspunkte zu."}, "es": {"name": "Espiral de Energía", "text": "Este ataque hace 50 puntos de daño por cada Energía unida a todos los Pokémon de tu rival."}, "fr": {"name": "Spirale Énergie", "text": "Cette attaque inflige 50 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."}, "it": {"name": "Spirale Energetica", "text": "Questo attacco infligge 50 danni per ogni Energia assegnata ai Pokémon del tuo avversario."}, "la": {"name": "Espiral de Energía", "text": "Este ataque hace 50 puntos de daño por cada Energía unida a todos los Pokémon de tu rival."}, "ptbr": {"name": "Espiral de Energia", "text": "Este ataque causa 50 pontos de dano para cada Energia ligada a todos os Pokémon do seu oponente."}}], "abilities": [], "weaknesses": {"type": "Lightning", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "14": {"id": "swsh10a_14", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Water"], "hp": 210, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Calyrex Cavaleiro Glacial V", "evolvesInto": {"de": ["Ice Rider Calyrex VMAX"], "en": ["Ice Rider Calyrex VMAX"], "es": ["Ice Rider Calyrex VMAX"], "fr": ["Ice Rider Calyrex VMAX"], "it": ["Ice Rider Calyrex VMAX"], "la": ["Ice Rider Calyrex VMAX"], "ptbr": ["Ice Rider Calyrex VMAX"]}, "name": {"de": "Schimmelreiter-Coronospa-V", "en": "Ice Rider Calyrex V", "es": "Calyrex Jinete Glacial V", "fr": "Sylveroy Cavalier du Froid-V", "it": "Calyrex Cavaliere Glaciale-V", "la": "Calyrex Jinete Glacial V", "ptbr": "Calyrex Cavaleiro Glacial V"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Pierce", "text": ""}, "cost": "W", "damage": "40", "de": {"name": "Durchbohren", "text": ""}, "es": {"name": "Perforar", "text": ""}, "fr": {"name": "Transpercement", "text": ""}, "it": {"name": "Perforare", "text": ""}, "la": {"name": "Perforar", "text": ""}, "ptbr": {"name": "Perfurar", "text": ""}}, {"en": {"name": "Glacial Lance", "text": "Discard 2 Energy from this Pokémon."}, "cost": "W", "damage": "40", "de": {"name": "Blizzardlanze", "text": "Lege 2 Energien von diesem Pokémon auf deinen Ablagestapel."}, "es": {"name": "Lanza Glacial", "text": "Descarta 2 Energías de este Pokémon."}, "fr": {"name": "Lance de Glace", "text": "Défaussez 2 Énergies de ce Pokémon."}, "it": {"name": "Lancia Glaciale", "text": "Scarta due Energie da questo Pokémon."}, "la": {"name": "Lanza Glacial", "text": "Descarta 2 Energías de este Pokémon."}, "ptbr": {"name": "Lança Glacial", "text": "Descarte 2 Energias deste Pokémon."}}], "abilities": [], "weaknesses": {"type": "Metal", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "15": {"id": "swsh10a_15", "supertype": "Pokémon", "subtypes": ["VMAX"], "types": ["Water"], "hp": 320, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Calyrex Cavaleiro Glacial V", "name": {"de": "Schimmelreiter-Coronospa-VMAX", "en": "Ice Rider Calyrex VMAX", "es": "Calyrex Jinete Glacial VMAX", "fr": "Sylveroy Cavalier du Froid-VMAX", "it": "Calyrex Cavaliere Glaciale-VMAX", "la": "Calyrex Jinete Glacial VMAX", "ptbr": "Calyrex Cavaleiro Glacial VMAX"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Ride of the High King", "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."}, "cost": "CC", "damage": "10+", "de": {"name": "Ritt des Kaisers", "text": "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 30 Schadenspunkte mehr zu."}, "es": {"name": "Paseo del Emperador", "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."}, "fr": {"name": "Chevauchée Impériale", "text": "Cette attaque inflige 30 dégâts supplémentaires pour chacun des Pokémon de Banc de votre adversaire."}, "it": {"name": "Cavalcata dell'Imperatore", "text": "Questo attacco infligge 30 danni in più per ogni Pokémon nella panchina del tuo avversario."}, "la": {"name": "Paseo del Emperador", "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."}, "ptbr": {"name": "Montaria do Rei Supremo", "text": "Este ataque causa 30 pontos de dano a mais para cada Pokémon no Banco do seu oponente."}}, {"en": {"name": "Max Lance", "text": "You may discard up to 2 Energy from this Pokémon. If you do, this attack does 120 more damage for each card you discarded in this way."}, "cost": "CC", "damage": "10+", "de": {"name": "Dyna-Lanze", "text": "Du kannst bis zu 2 Energien von diesem Pokémon auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke für jede auf diese Weise abgelegte Karte 120 Schadenspunkte mehr zu."}, "es": {"name": "Maxilanza", "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."}, "fr": {"name": "Lançomax", "text": "Vous pouvez défausser jusqu'à 2 Énergies de ce Pokémon. Dans ce cas, cette attaque inflige 120 dégâts supplémentaires pour chaque carte défaussée de cette façon."}, "it": {"name": "Dynalancia", "text": "Puoi scartare fino a due Energie da questo Pokémon. Se lo fai, questo attacco infligge 120 danni in più per ogni carta che hai scartato in questo modo."}, "la": {"name": "Maxilanza", "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."}, "ptbr": {"name": "Lança Longa Max", "text": "Você pode descartar até 2 Energias deste Pokémon. Se fizer isto, este ataque causará 120 pontos de dano a mais para cada carta descartada desta forma."}}], "abilities": [], "weaknesses": {"type": "Metal", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "16": {"id": "swsh10a_16", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Psychic"], "hp": 210, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Articuno de Galar V", "name": {"de": "Galar-Arktos-V", "en": "Galarian Articuno V", "es": "Articuno de Galar V", "fr": "Artikodin de Galar-V", "it": "Articuno di Galar-V", "la": "Articuno de Galar V", "ptbr": "Articuno de Galar V"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Psyray", "text": "Your opponent's Active Pokémon is now Confused."}, "cost": "", "damage": "", "de": {"name": "Psyschein", "text": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."}, "es": {"name": "Rayo Psíquico", "text": "El Pokémon Activo de tu rival pasa a estar Confundido."}, "fr": {"name": "Rayon Psy", "text": "Le Pokémon Actif de votre adversaire est maintenant Confus."}, "it": {"name": "Psicobagliore", "text": "Il Pokémon attivo del tuo avversario viene confuso."}, "la": {"name": "Rayo Psíquico", "text": "El Pokémon Activo de tu rival pasa a estar Confundido."}, "ptbr": {"name": "Psicorraio", "text": "O Pokémon Ativo do seu oponente agora está Confuso."}}], "abilities": [{"en": {"name": "[Ability] Reconstitute", "text": "You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card."}, "de": {"name": "[Ability] Rekonfigurieren", "text": "Du musst 2 Karten aus deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 1 Karte ziehen."}, "es": {"name": "[Ability] Reconstitución", "text": "Debes descartar 2 cartas de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta."}, "fr": {"name": "[Ability] Reconstitution", "text": "Vous devez défausser 2 cartes de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez piocher une carte."}, "it": {"name": "[Ability] Ricostituzione", "text": "Devi scartare due carte che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare una carta."}, "la": {"name": "[Ability] Reconstitución", "text": "Debes descartar 2 cartas de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta."}, "ptbr": {"name": "[Ability] Reconstituição", "text": "Você deve descartar 2 cartas da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar 1 carta."}}], "weaknesses": {"type": "Dark", "amount": "2"}, "resistance": {"type": "Fighting", "amount": "-30"}}, "17": {"id": "swsh10a_17", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Psychic"], "hp": 210, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Calyrex Cavaleiro Espectral V", "evolvesInto": {"de": ["Shadow Rider Calyrex VMAX"], "en": ["Shadow Rider Calyrex VMAX"], "es": ["Shadow Rider Calyrex VMAX"], "fr": ["Shadow Rider Calyrex VMAX"], "it": ["Shadow Rider Calyrex VMAX"], "la": ["Shadow Rider Calyrex VMAX"], "ptbr": ["Shadow Rider Calyrex VMAX"]}, "name": {"de": "Rappenreiter-Coronospa-V", "en": "Shadow Rider Calyrex V", "es": "Calyrex Jinete Espectral V", "fr": "Sylveroy Cavalier d'Effroi-V", "it": "Calyrex Cavaliere Spettrale-V", "la": "Calyrex Jinete Espectral V", "ptbr": "Calyrex Cavaleiro Espectral V"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Shadow Mist", "text": "During your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand."}, "cost": "P", "damage": "10", "de": {"name": "Schattennebel", "text": "Dein Gegner kann während seines nächsten Zuges keine Spezial-Energien oder Stadionkarten aus seiner Hand spielen."}, "es": {"name": "Neblina Espectral", "text": "Durante el próximo turno de tu rival, este no puede jugar ninguna carta de Energía Especial o de Estadio de su mano."}, "fr": {"name": "Brume d'Effroi", "text": "Pendant le prochain tour de votre adversaire, il ne peut pas jouer de cartes Énergie spéciale ou Stade de sa main."}, "it": {"name": "Nebbiombra", "text": "Durante il prossimo turno del tuo avversario, questi non può giocare le carte Energia speciale o Stadio che ha in mano."}, "la": {"name": "Neblina Espectral", "text": "Durante el próximo turno de tu rival, este no puede jugar ninguna carta de Energía Especial o de Estadio de su mano."}, "ptbr": {"name": "Névoa das Sombras", "text": "Durante o próximo turno do seu oponente, ele(a) não poderá jogar nenhuma carta de Energia Especial ou de Estádio da própria mão."}}, {"en": {"name": "Astral Barrage", "text": "Choose 2 of your opponent's Pokémon and put 5 damage counters on each of them."}, "cost": "P", "damage": "10", "de": {"name": "Astralfragmente", "text": "Wähle 2 Pokémon deines Gegners und lege 5 Schadensmarken auf jedes von ihnen."}, "es": {"name": "Orbes Espectro", "text": "Elige 2 de los Pokémon de tu rival y pon 5 contadores de daño en cada uno de ellos."}, "fr": {"name": "Éclat Spectral", "text": "Choisissez 2 des Pokémon de votre adversaire, puis placez 5 marqueurs de dégâts sur chacun d'eux."}, "it": {"name": "Schegge Astrali", "text": "Scegli due dei Pokémon del tuo avversario e metti cinque segnalini danno su ciascuno di essi."}, "la": {"name": "Orbes Espectro", "text": "Elige 2 de los Pokémon de tu rival y pon 5 contadores de daño en cada uno de ellos."}, "ptbr": {"name": "Barricada Astral", "text": "Escolha 2 dos Pokémon do seu oponente e coloque 5 contadores de dano em cada um deles."}}], "abilities": [], "weaknesses": {"type": "Dark", "amount": "2"}, "resistance": {"type": "Fighting", "amount": "-30"}}, "18": {"id": "swsh10a_18", "supertype": "Pokémon", "subtypes": ["VMAX"], "types": ["Psychic"], "hp": 320, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Calyrex Cavaleiro Espectral V", "name": {"de": "Rappenreiter-Coronospa-VMAX", "en": "Shadow Rider Calyrex VMAX", "es": "Calyrex Jinete Espectral VMAX", "fr": "Sylveroy Cavalier d'Effroi-VMAX", "it": "Calyrex Cavaliere Spettrale-VMAX", "la": "Calyrex Jinete Espectral VMAX", "ptbr": "Calyrex Cavaleiro Espectral VMAX"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Max Geist", "text": "This attack does 30 more damage for each psychic Energy attached to all of your Pokémon."}, "cost": "", "damage": "", "de": {"name": "Dyna-Geist", "text": "Diese Attacke fügt für jede an alle deine Pokémon angelegte psychic-Energie 30 Schadenspunkte mehr zu."}, "es": {"name": "Maxiespíritu", "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."}, "fr": {"name": "Spiritomax", "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie psychic attachée à tous vos Pokémon."}, "it": {"name": "Dynaspirito", "text": "Questo attacco infligge 30 danni in più per ogni Energia psychic assegnata ai tuoi Pokémon."}, "la": {"name": "Maxiespíritu", "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."}, "ptbr": {"name": "Assombração Max", "text": "Este ataque causa 30 pontos de dano a mais para cada Energia psychic ligada a todos os seus Pokémon."}}], "abilities": [{"en": {"name": "[Ability] Underworld Door", "text": "Once during your turn, you may attach a psychic Energy card from your hand to 1 of your Benched psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards."}, "de": {"name": "[Ability] Tür zur Unterwelt", "text": "Einmal während deines Zuges kannst du 1 psychic-Energiekarte aus deiner Hand an 1 psychic-Pokémon auf deiner Bank anlegen. Wenn du auf diese Weise Energie an ein Pokémon angelegt hast, ziehe 2 Karten."}, "es": {"name": "[Ability] Puerta del Inframundo", "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."}, "fr": {"name": "[Ability] Porte des Abîmes", "text": "Une fois pendant votre tour, vous pouvez attacher une carte Énergie psychic de votre main à l'un de vos Pokémon psychic de Banc. Si vous avez attaché de l'Énergie à un Pokémon de cette façon, piochez 2 cartes."}, "it": {"name": "[Ability] Portale Sottomondo", "text": "Una sola volta durante il tuo turno, puoi assegnare a uno dei tuoi Pokémon psychic in panchina una carta Energia psychic dalla tua mano. Se hai assegnato dell'Energia a un Pokémon in questo modo, pesca due carte."}, "la": {"name": "[Ability] Puerta del Inframundo", "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."}, "ptbr": {"name": "[Ability] Portão do Submundo", "text": "Uma vez durante o seu turno, você poderá ligar 1 carta de Energia psychic da sua mão a 1 dos seus Pokémon psychic no Banco. Se você ligou Energia a um Pokémon desta forma, compre 2 cartas."}}], "weaknesses": {"type": "Dark", "amount": "2"}, "resistance": {"type": "Fighting", "amount": "-30"}}, "19": {"id": "swsh10a_19", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Fighting"], "hp": 200, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Zapdos de Galar V", "name": {"de": "Galar-Zapdos-V", "en": "Galarian Zapdos V", "es": "Zapdos de Galar V", "fr": "Électhor de Galar-V", "it": "Zapdos di Galar-V", "la": "Zapdos de Galar V", "ptbr": "Zapdos de Galar V"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 1, "attacks": [{"en": {"name": "Thunderous Kick", "text": "Before doing damage, discard a Special Energy from your opponent's Active Pokémon."}, "cost": "", "damage": "", "de": {"name": "Donnernder Tritt", "text": "Bevor du Schaden zufügst, lege 1 Spezial-Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."}, "es": {"name": "Patada Relámpago", "text": "Antes de infligir daño, descarta 1 Energía Especial del Pokémon Activo de tu rival."}, "fr": {"name": "Coup Fulgurant", "text": "Avant d'infliger des dégâts, défaussez une Énergie spéciale du Pokémon Actif de votre adversaire."}, "it": {"name": "Calcio Tonante", "text": "Prima di infliggere danni, scarta un'Energia speciale dal Pokémon attivo del tuo avversario."}, "la": {"name": "Patada Relámpago", "text": "Antes de infligir daño, descarta 1 Energía Especial del Pokémon Activo de tu rival."}, "ptbr": {"name": "Chute Trovejante", "text": "Antes de causar dano, descarte 1 Energia Especial do Pokémon Ativo do seu oponente."}}], "abilities": [{"en": {"name": "[Ability] Fighting Instinct", "text": "This Pokémon's attacks cost colorless less for each of your opponent's Pokémon v_atk in play."}, "de": {"name": "[Ability] Kampfinstinkt", "text": "Die Kosten der Attacken dieses Pokémon verringern sich für jedes Pokémon-v_atk deines Gegners im Spiel um colorless."}, "es": {"name": "[Ability] Instinto de Lucha", "text": "Los ataques de este Pokémon cuestan colorless menos por cada uno de los Pokémon v_atk en juego de tu rival."}, "fr": {"name": "[Ability] Instinct de Combat", "text": "Les attaques de ce Pokémon coûtent colorless de moins pour chaque Pokémon-v_atk en jeu de votre adversaire."}, "it": {"name": "[Ability] Istinto da Combattente", "text": "Il costo degli attacchi di questo Pokémon è ridotto di colorless per ogni Pokémon-v_atk in gioco del tuo avversario."}, "la": {"name": "[Ability] Instinto de Lucha", "text": "Los ataques de este Pokémon cuestan colorless menos por cada uno de los Pokémon v_atk en juego de tu rival."}, "ptbr": {"name": "[Ability] Instinto de Luta", "text": "Os ataques deste Pokémon custam colorless a menos para cada Pokémon v_atk do seu oponente em jogo."}}], "weaknesses": {"type": "Psychic", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "20": {"id": "swsh10a_20", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Dark"], "hp": 220, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Moltres de Galar V", "name": {"de": "Galar-Lavados-V", "en": "Galarian Moltres V", "es": "Moltres de Galar V", "fr": "Sulfura de Galar-V", "it": "Moltres di Galar-V", "la": "Moltres de Galar V", "ptbr": "Moltres de Galar V"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Aura Burn", "text": "This Pokémon also does 30 damage to itself."}, "cost": "", "damage": "", "de": {"name": "Aurabrand", "text": "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu."}, "es": {"name": "Aura Abrasadora", "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."}, "fr": {"name": "Aura Ardente", "text": "Ce Pokémon s'inflige aussi 30 dégâts."}, "it": {"name": "Scottaura", "text": "Questo Pokémon infligge anche 30 danni a se stesso."}, "la": {"name": "Aura Abrasadora", "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."}, "ptbr": {"name": "Aura Ardente", "text": "Este Pokémon também causa 30 pontos de dano a si mesmo."}}], "abilities": [{"en": {"name": "[Ability] Direflame Wings", "text": "Once during your turn, you may attach a darkness Energy card from your discard pile to this Pokémon. You can't use more than 1 Direflame Wings Ability each turn."}, "de": {"name": "[Ability] Flammende Schattenflügel", "text": "Einmal während deines Zuges kannst du 1 darkness-Energiekarte aus deinem Ablagestapel an dieses Pokémon anlegen. Du kannst immer nur jeweils 1 Fähigkeit Flammende Schattenflügel einsetzen."}, "es": {"name": "[Ability] Alas Incendiarias", "text": "Una vez durante tu turno, puedes unir 1 carta de Energía darkness de tu pila de descartes a este Pokémon. No puedes usar más de 1 habilidad Alas Incendiarias en cada turno."}, "fr": {"name": "[Ability] Ailes Ténébraises", "text": "Une fois pendant votre tour, vous pouvez attacher une carte Énergie darkness de votre pile de défausse à ce Pokémon. Vous ne pouvez utiliser qu'un talent Ailes Ténébraises par tour."}, "it": {"name": "[Ability] Ali Estremafiamma", "text": "Una sola volta durante il tuo turno, puoi assegnare a questo Pokémon una carta Energia darkness dalla tua pila degli scarti. Puoi usare l'abilità Ali Estremafiamma solo una volta per turno."}, "la": {"name": "[Ability] Alas Incendiarias", "text": "Una vez durante tu turno, puedes unir 1 carta de Energía darkness de tu pila de descartes a este Pokémon. No puedes usar más de 1 habilidad Alas Incendiarias en cada turno."}, "ptbr": {"name": "[Ability] Asas de Fogaréu", "text": "Uma vez durante o seu turno, você poderá ligar 1 carta de Energia darkness da sua pilha de descarte a este Pokémon. Você não pode usar mais de 1 Habilidade Asas de Fogaréu por turno."}}], "weaknesses": {"type": "Grass", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "21": {"id": "swsh10a_21", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Metal"], "hp": 220, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Zacian V", "evolvesInto": {"de": ["Zacian VSTAR"], "en": ["Zacian VSTAR"], "es": ["Zacian VSTAR"], "fr": ["Zacian VSTAR"], "it": ["Zacian VSTAR"], "la": ["Zacian VSTAR"], "ptbr": ["Zacian VSTAR"]}, "name": {"de": "Zacian-V", "en": "Zacian V", "es": "Zacian V", "fr": "Zacian-V", "it": "Zacian-V", "la": "Zacian V", "ptbr": "Zacian V"}, "regulation": "D", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Brave Blade", "text": "During your next turn, this Pokémon can't attack."}, "cost": "", "damage": "", "de": {"name": "Couragierte Klinge", "text": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen."}, "es": {"name": "Cuchilla Osada", "text": "Durante tu próximo turno, este Pokémon no puede atacar."}, "fr": {"name": "Lame Vaillante", "text": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."}, "it": {"name": "Baldalama", "text": "Durante il tuo prossimo turno, questo Pokémon non può attaccare."}, "la": {"name": "Cuchilla Osada", "text": "Durante tu próximo turno, este Pokémon no puede atacar."}, "ptbr": {"name": "Lâmina Valente", "text": "Durante o seu próximo turno, este Pokémon não poderá atacar."}}], "abilities": [{"en": {"name": "[Ability] Intrepid Sword", "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of metal Energy cards you find there to this Pokémon. Put the other cards into your hand. If you use this Ability, your turn ends."}, "de": {"name": "[Ability] Kühnes Schwert", "text": "Einmal während deines Zuges kannst du dir die obersten 3 Karten deines Decks anschauen und beliebig viele metal-Energiekarten, die du dort findest, an dieses Pokémon anlegen. Nimm die anderen Karten auf deine Hand. Wenn du diese Fähigkeit einsetzt, endet dein Zug."}, "es": {"name": "[Ability] Espada Indómita", "text": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía metal que encuentres entre ellas a este Pokémon. Pon el resto de las cartas en tu mano. Si usas esta habilidad, tu turno termina."}, "fr": {"name": "[Ability] Lame Indomptable", "text": "Une fois pendant votre tour, vous pouvez regarder les 3 cartes du dessus de votre deck, puis attacher à ce Pokémon le nombre voulu de cartes Énergie metal que vous y trouvez. Ajoutez les autres cartes à votre main. Si vous utilisez ce talent, votre tour se termine."}, "it": {"name": "[Ability] Spada Indomita", "text": "Una sola volta durante il tuo turno, puoi guardare le prime tre carte del tuo mazzo e assegnare un numero qualsiasi di carte Energia metal presenti tra esse a questo Pokémon. Aggiungi le altre carte a quelle che hai in mano. Se usi questa abilità, il tuo turno finisce."}, "la": {"name": "[Ability] Espada Indómita", "text": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía metal que encuentres entre ellas a este Pokémon. Pon el resto de las cartas en tu mano. Si usas esta habilidad, tu turno termina."}, "ptbr": {"name": "[Ability] Espada Intrépida", "text": "Uma vez durante o seu turno, você poderá olhar as 3 cartas de cima do seu baralho e ligar qualquer número de cartas de Energia metal que encontrar lá a este Pokémon. Coloque as outras cartas na sua mão. Se você usar esta Habilidade, o seu turno acabará."}}], "weaknesses": {"type": "Fire", "amount": "2"}, "resistance": {"type": "Grass", "amount": "-30"}}, "22": {"id": "swsh10a_22", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Metal"], "hp": 230, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Zamazenta V", "evolvesInto": {"de": ["Zamazenta VSTAR"], "en": ["Zamazenta VSTAR"], "es": ["Zamazenta VSTAR"], "fr": ["Zamazenta VSTAR"], "it": ["Zamazenta VSTAR"], "la": ["Zamazenta VSTAR"], "ptbr": ["Zamazenta VSTAR"]}, "name": {"de": "Zamazenta-V", "en": "Zamazenta V", "es": "Zamazenta V", "fr": "Zamazenta-V", "it": "Zamazenta-V", "la": "Zamazenta V", "ptbr": "Zamazenta V"}, "regulation": "D", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 2, "attacks": [{"en": {"name": "Assault Tackle", "text": "Discard a Special Energy from your opponent's Active Pokémon."}, "cost": "", "damage": "", "de": {"name": "Überfalltackle", "text": "Lege 1 Spezial-Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."}, "es": {"name": "Placaje Asalto", "text": "Descarta 1 Energía Especial del Pokémon Activo de tu rival."}, "fr": {"name": "Tacle Assaillant", "text": "Défaussez une Énergie spéciale du Pokémon Actif de votre adversaire."}, "it": {"name": "Azione d'Assalto", "text": "Scarta un'Energia speciale dal Pokémon attivo del tuo avversario."}, "la": {"name": "Placaje Asalto", "text": "Descarta 1 Energía Especial del Pokémon Activo de tu rival."}, "ptbr": {"name": "Investida Ofensiva", "text": "Descarte 1 Energia Especial do Pokémon Ativo do seu oponente."}}], "abilities": [{"en": {"name": "[Ability] Dauntless Shield", "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon vMax_atk."}, "de": {"name": "[Ability] Wackerer Schild", "text": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon-vMax_atk deines Gegners zugefügt wird."}, "es": {"name": "[Ability] Escudo Recio", "text": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon vMax_atk de tu rival."}, "fr": {"name": "[Ability] Égide Inflexible", "text": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon-vMax_atk de votre adversaire."}, "it": {"name": "[Ability] Scudo Saldo", "text": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-vMax_atk del tuo avversario."}, "la": {"name": "[Ability] Escudo Recio", "text": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon vMax_atk de tu rival."}, "ptbr": {"name": "[Ability] Escudo Destemido", "text": "Previna todo o dano causado a este Pokémon por ataques dos Pokémon vMax_atk do seu oponente."}}], "weaknesses": {"type": "Fire", "amount": "2"}, "resistance": {"type": "Grass", "amount": "-30"}}, "23": {"id": "swsh10a_23", "supertype": "Pokémon", "subtypes": ["Basic Stage", "V"], "types": ["Dragon"], "hp": 200, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Garchomp V", "name": {"de": "Knakrack-V", "en": "Garchomp V", "es": "Garchomp V", "fr": "Carchacrok-V", "it": "Garchomp-V", "la": "Garchomp V", "ptbr": "Garchomp V"}, "regulation": "F", "rarity": {"CompSea": "CharacterRareHoloV", "Dust": "CharacterRareHoloV", "Loc": "CharacterRareHoloV"}, "retreat": 0, "attacks": [{"en": {"name": "Dragon Claw", "text": ""}, "cost": "WFC", "damage": "120", "de": {"name": "Drachenklaue", "text": ""}, "es": {"name": "Garra Dragón", "text": ""}, "fr": {"name": "Draco-Griffe", "text": ""}, "it": {"name": "Dragartigli", "text": ""}, "la": {"name": "Garra Dragón", "text": ""}, "ptbr": {"name": "Garra de Dragão", "text": ""}}, {"en": {"name": "Sonic Strike", "text": "Discard 3 Energy from this Pokémon. This attack does 220 damage to 1 of your opponent's Pokémon. <i>(Don't apply Weakness and Resistance for Benched Pokémon.)</i>"}, "cost": "WFC", "damage": "120", "de": {"name": "Überschallschlag", "text": "Lege 3 Energien von diesem Pokémon auf deinen Ablagestapel. Diese Attacke fügt 1 Pokémon deines Gegners 220 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>"}, "es": {"name": "Golpe Sónico", "text": "Descarta 3 Energías de este Pokémon. Este ataque hace 220 puntos de daño a 1 de los Pokémon de tu rival. <i>(No apliques Debilidad y Resistencia a los Pokémon en Banca).</i>"}, "fr": {"name": "Frappe Sonique", "text": "Défaussez 3 Énergies de ce Pokémon. Cette attaque inflige 220 dégâts à l'un des Pokémon de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>"}, "it": {"name": "Colpo Sonico", "text": "Scarta tre Energie da questo Pokémon. Questo attacco infligge 220 danni a uno dei Pokémon del tuo avversario. <i>Non applicare debolezza e resistenza ai Pokémon in panchina.</i>"}, "la": {"name": "Golpe Sónico", "text": "Descarta 3 Energías de este Pokémon. Este ataque hace 220 puntos de daño a 1 de los Pokémon de tu rival. <i>(No apliques Debilidad y Resistencia a los Pokémon en Banca).</i>"}, "ptbr": {"name": "Golpe Sônico", "text": "Descarte 3 Energias deste Pokémon. Este ataque causa 220 pontos de dano a 1 dos Pokémon do seu oponente <i>(não aplique Fraqueza e Resistência aos Pokémon no Banco).</i>"}}], "abilities": [], "weaknesses": {"type": "", "amount": ""}, "resistance": {"type": "", "amount": ""}}, "24": {"id": "swsh10a_24", "supertype": "Pokémon", "subtypes": ["Supporter"], "types": [], "hp": 0, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "name": {"de": "Nio", "en": "Allister", "es": "Alistair", "fr": "Alistair", "it": "Onion", "la": "Alistair", "ptbr": "Allister"}, "regulation": "D", "rarity": {"CompSea": "CharacterRareUltra", "Dust": "CharacterRareUltra", "Loc": "CharacterRareUltra"}, "retreat": 0, "attacks": [], "abilities": [], "weaknesses": {"type": "", "amount": ""}, "resistance": {"type": "", "amount": ""}}, "25": {"id": "swsh10a_25", "supertype": "Pokémon", "subtypes": ["Supporter"], "types": [], "hp": 0, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "name": {"de": "Saida", "en": "Bea", "es": "Judith", "fr": "Faïza", "it": "Fabia", "la": "Judith", "ptbr": "Bia"}, "regulation": "D", "rarity": {"CompSea": "CharacterRareUltra", "Dust": "CharacterRareUltra", "Loc": "CharacterRareUltra"}, "retreat": 0, "attacks": [], "abilities": [], "weaknesses": {"type": "", "amount": ""}, "resistance": {"type": "", "amount": ""}}, "26": {"id": "swsh10a_26", "supertype": "Pokémon", "subtypes": ["Supporter"], "types": [], "hp": 0, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "name": {"de": "Mel", "en": "Melony", "es": "Mel", "fr": "Lona", "it": "Melania", "la": "Mel", "ptbr": "Melony"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareUltra", "Dust": "CharacterRareUltra", "Loc": "CharacterRareUltra"}, "retreat": 0, "attacks": [], "abilities": [], "weaknesses": {"type": "", "amount": ""}, "resistance": {"type": "", "amount": ""}}, "27": {"id": "swsh10a_27", "supertype": "Pokémon", "subtypes": ["Supporter"], "types": [], "hp": 0, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "name": {"de": "Yarro", "en": "Milo", "es": "Percy", "fr": "Percy", "it": "Yarrow", "la": "Percy", "ptbr": "Milo"}, "regulation": "D", "rarity": {"CompSea": "CharacterRareUltra", "Dust": "CharacterRareUltra", "Loc": "CharacterRareUltra"}, "retreat": 0, "attacks": [], "abilities": [], "weaknesses": {"type": "", "amount": ""}, "resistance": {"type": "", "amount": ""}}, "28": {"id": "swsh10a_28", "supertype": "Pokémon", "subtypes": ["Supporter"], "types": [], "hp": 0, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "name": {"de": "Nezz", "en": "Piers", "es": "Nerio", "fr": "Peterson", "it": "Ginepro", "la": "Nerio", "ptbr": "Pietro"}, "regulation": "D", "rarity": {"CompSea": "CharacterRareUltra", "Dust": "CharacterRareUltra", "Loc": "CharacterRareUltra"}, "retreat": 0, "attacks": [], "abilities": [], "weaknesses": {"type": "", "amount": ""}, "resistance": {"type": "", "amount": ""}}, "29": {"id": "swsh10a_29", "supertype": "Pokémon", "subtypes": ["VMAX"], "types": ["Water"], "hp": 320, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Calyrex Cavaleiro Glacial V", "name": {"de": "Schimmelreiter-Coronospa-VMAX", "en": "Ice Rider Calyrex VMAX", "es": "Calyrex Jinete Glacial VMAX", "fr": "Sylveroy Cavalier du Froid-VMAX", "it": "Calyrex Cavaliere Glaciale-VMAX", "la": "Calyrex Jinete Glacial VMAX", "ptbr": "Calyrex Cavaleiro Glacial VMAX"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareSecret", "Dust": "CharacterRareSecret", "Loc": "CharacterRareSecret"}, "retreat": 2, "attacks": [{"en": {"name": "Ride of the High King", "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."}, "cost": "CC", "damage": "10+", "de": {"name": "Ritt des Kaisers", "text": "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 30 Schadenspunkte mehr zu."}, "es": {"name": "Paseo del Emperador", "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."}, "fr": {"name": "Chevauchée Impériale", "text": "Cette attaque inflige 30 dégâts supplémentaires pour chacun des Pokémon de Banc de votre adversaire."}, "it": {"name": "Cavalcata dell'Imperatore", "text": "Questo attacco infligge 30 danni in più per ogni Pokémon nella panchina del tuo avversario."}, "la": {"name": "Paseo del Emperador", "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."}, "ptbr": {"name": "Montaria do Rei Supremo", "text": "Este ataque causa 30 pontos de dano a mais para cada Pokémon no Banco do seu oponente."}}, {"en": {"name": "Max Lance", "text": "You may discard up to 2 Energy from this Pokémon. If you do, this attack does 120 more damage for each card you discarded in this way."}, "cost": "CC", "damage": "10+", "de": {"name": "Dyna-Lanze", "text": "Du kannst bis zu 2 Energien von diesem Pokémon auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke für jede auf diese Weise abgelegte Karte 120 Schadenspunkte mehr zu."}, "es": {"name": "Maxilanza", "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."}, "fr": {"name": "Lançomax", "text": "Vous pouvez défausser jusqu'à 2 Énergies de ce Pokémon. Dans ce cas, cette attaque inflige 120 dégâts supplémentaires pour chaque carte défaussée de cette façon."}, "it": {"name": "Dynalancia", "text": "Puoi scartare fino a due Energie da questo Pokémon. Se lo fai, questo attacco infligge 120 danni in più per ogni carta che hai scartato in questo modo."}, "la": {"name": "Maxilanza", "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."}, "ptbr": {"name": "Lança Longa Max", "text": "Você pode descartar até 2 Energias deste Pokémon. Se fizer isto, este ataque causará 120 pontos de dano a mais para cada carta descartada desta forma."}}], "abilities": [], "weaknesses": {"type": "Metal", "amount": "2"}, "resistance": {"type": "", "amount": ""}}, "30": {"id": "swsh10a_30", "supertype": "Pokémon", "subtypes": ["VMAX"], "types": ["Psychic"], "hp": 320, "Release Date": "2022-05-24T17:00:00.0000000Z", "Craftable Date": "2022-05-24 19:00:00", "Craftable": 1, "baseEvolution": "Calyrex Cavaleiro Espectral V", "name": {"de": "Rappenreiter-Coronospa-VMAX", "en": "Shadow Rider Calyrex VMAX", "es": "Calyrex Jinete Espectral VMAX", "fr": "Sylveroy Cavalier d'Effroi-VMAX", "it": "Calyrex Cavaliere Spettrale-VMAX", "la": "Calyrex Jinete Espectral VMAX", "ptbr": "Calyrex Cavaleiro Espectral VMAX"}, "regulation": "E", "rarity": {"CompSea": "CharacterRareSecret", "Dust": "CharacterRareSecret", "Loc": "CharacterRareSecret"}, "retreat": 2, "attacks": [{"en": {"name": "Max Geist", "text": "This attack does 30 more damage for each psychic Energy attached to all of your Pokémon."}, "cost": "", "damage": "", "de": {"name": "Dyna-Geist", "text": "Diese Attacke fügt für jede an alle deine Pokémon angelegte psychic-Energie 30 Schadenspunkte mehr zu."}, "es": {"name": "Maxiespíritu", "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."}, "fr": {"name": "Spiritomax", "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie psychic attachée à tous vos Pokémon."}, "it": {"name": "Dynaspirito", "text": "Questo attacco infligge 30 danni in più per ogni Energia psychic assegnata ai tuoi Pokémon."}, "la": {"name": "Maxiespíritu", "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."}, "ptbr": {"name": "Assombração Max", "text": "Este ataque causa 30 pontos de dano a mais para cada Energia psychic ligada a todos os seus Pokémon."}}], "abilities": [{"en": {"name": "[Ability] Underworld Door", "text": "Once during your turn, you may attach a psychic Energy card from your hand to 1 of your Benched psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards."}, "de": {"name": "[Ability] Tür zur Unterwelt", "text": "Einmal während deines Zuges kannst du 1 psychic-Energiekarte aus deiner Hand an 1 psychic-Pokémon auf deiner Bank anlegen. Wenn du auf diese Weise Energie an ein Pokémon angelegt hast, ziehe 2 Karten."}, "es": {"name": "[Ability] Puerta del Inframundo", "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."}, "fr": {"name": "[Ability] Porte des Abîmes", "text": "Une fois pendant votre tour, vous pouvez attacher une carte Énergie psychic de votre main à l'un de vos Pokémon psychic de Banc. Si vous avez attaché de l'Énergie à un Pokémon de cette façon, piochez 2 cartes."}, "it": {"name": "[Ability] Portale Sottomondo", "text": "Una sola volta durante il tuo turno, puoi assegnare a uno dei tuoi Pokémon psychic in panchina una carta Energia psychic dalla tua mano. Se hai assegnato dell'Energia a un Pokémon in questo modo, pesca due carte."}, "la": {"name": "[Ability] Puerta del Inframundo", "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."}, "ptbr": {"name": "[Ability] Portão do Submundo", "text": "Uma vez durante o seu turno, você poderá ligar 1 carta de Energia psychic da sua mão a 1 dos seus Pokémon psychic no Banco. Se você ligou Energia a um Pokémon desta forma, compre 2 cartas."}}], "weaknesses": {"type": "Dark", "amount": "2"}, "resistance": {"type": "Fighting", "amount": "-30"}}}
+{
+    "data": {
+        "ptcgoCode": "ASR-TG",
+        "expansion": {
+            "de": null,
+            "en": null,
+            "es": null,
+            "fr": null,
+            "it": null,
+            "la": null,
+            "ptbr": null
+        }
+    },
+    "1": {
+        "id": "swsh10a_1",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Single Strike",
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 140,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Snover",
+        "name": {
+            "de": "Rexblisar",
+            "en": "Abomasnow",
+            "es": "Abomasnow",
+            "fr": "Blizzaroi",
+            "it": "Abomasnow",
+            "la": "Abomasnow",
+            "ptbr": "Abomasnow"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 3,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Mega Punch",
+                    "text": ""
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Megahieb",
+                    "text": ""
+                },
+                "es": {
+                    "name": "Megapuño",
+                    "text": ""
+                },
+                "fr": {
+                    "name": "Ultimapoing",
+                    "text": ""
+                },
+                "it": {
+                    "name": "Megapugno",
+                    "text": ""
+                },
+                "la": {
+                    "name": "Megapuño",
+                    "text": ""
+                },
+                "ptbr": {
+                    "name": "Megassoco",
+                    "text": ""
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Toughness Boost",
+                    "text": "Your Single Strike Pokémon in play, except any Abomasnow, get +50 HP. You can't apply more than 1 Toughness Boost Ability at a time."
+                },
+                "de": {
+                    "name": "[Ability] Stärkeschub",
+                    "text": "Deine Fokussierter-Angriff-Pokémon im Spiel, außer Rexblisar, erhalten +50 KP. Du kannst immer nur jeweils 1 Fähigkeit Stärkeschub einsetzen."
+                },
+                "es": {
+                    "name": "[Ability] Impulso Vigorizante",
+                    "text": "Tus Pokémon Golpe Brusco en juego, excepto los Abomasnow, obtienen 50 PS más. No puedes aplicar más de 1 habilidad Impulso Vigorizante a la vez."
+                },
+                "fr": {
+                    "name": "[Ability] Boost d'Endurance",
+                    "text": "Vos Pokémon Poing Final en jeu, à l'exception de Blizzaroi, reçoivent +50 PV. Vous ne pouvez utiliser qu'un talent Boost d'Endurance à la fois."
+                },
+                "it": {
+                    "name": "[Ability] Carica di Tenacia",
+                    "text": "I tuoi Pokémon Colpo Singolo in gioco, a eccezione di qualsiasi Abomasnow, hanno 50 PS in più. Non puoi applicare più di un'abilità Carica di Tenacia alla volta."
+                },
+                "la": {
+                    "name": "[Ability] Impulso Vigorizante",
+                    "text": "Tus Pokémon Golpe Brusco en juego, excepto los Abomasnow, obtienen 50 PS más. No puedes aplicar más de 1 habilidad Impulso Vigorizante a la vez."
+                },
+                "ptbr": {
+                    "name": "[Ability] Impulso da Determinação",
+                    "text": "Seus Pokémon Golpe Decisivo em jogo, exceto por quaisquer Abomasnow, recebem 50 PS a mais. Você não pode usar mais de 1 Habilidade Impulso da Determinação por vez."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Fire",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "2": {
+        "id": "swsh10a_2",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Grass"
+        ],
+        "hp": 80,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Applin",
+        "name": {
+            "de": "Drapfel",
+            "en": "Flapple",
+            "es": "Flapple",
+            "fr": "Pomdrapi",
+            "it": "Flapple",
+            "la": "Flapple",
+            "ptbr": "Flapple"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 1,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Acid Spray",
+                    "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Säurespeier",
+                    "text": "Wirf 1 Münze. Lege bei Kopf 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."
+                },
+                "es": {
+                    "name": "Bomba Ácida",
+                    "text": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival."
+                },
+                "fr": {
+                    "name": "Bombe Acide",
+                    "text": "Lancez une pièce. Si c'est face, défaussez une Énergie du Pokémon Actif de votre adversaire."
+                },
+                "it": {
+                    "name": "Acidobomba",
+                    "text": "Lancia una moneta. Se esce testa, scarta un'Energia dal Pokémon attivo del tuo avversario."
+                },
+                "la": {
+                    "name": "Bomba Ácida",
+                    "text": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival."
+                },
+                "ptbr": {
+                    "name": "Spray Ácido",
+                    "text": "Jogue 1 moeda. Se sair cara, descarte 1 Energia do Pokémon Ativo do seu oponente."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Apple Drop",
+                    "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon. If you placed any damage counters in this way, shuffle this Pokémon and all attached cards into your deck."
+                },
+                "de": {
+                    "name": "[Ability] Apfelfall",
+                    "text": "Einmal während deines Zuges kannst du 2 Schadensmarken auf 1 Pokémon deines Gegners legen. Wenn du auf diese Weise Schadensmarken platziert hast, mische dieses Pokémon und alle angelegten Karten in dein Deck."
+                },
+                "es": {
+                    "name": "[Ability] Caída de Manzanas",
+                    "text": "Una vez durante tu turno, puedes poner 2 contadores de daño en 1 de los Pokémon de tu rival. Si has puesto algún contador de daño de esta manera, pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas."
+                },
+                "fr": {
+                    "name": "[Ability] Chute de Pommes",
+                    "text": "Une fois pendant votre tour, vous pouvez placer 2 marqueurs de dégâts sur l'un des Pokémon de votre adversaire. Si vous avez placé des marqueurs de dégâts de cette façon, mélangez dans votre deck ce Pokémon et toutes les cartes attachées."
+                },
+                "it": {
+                    "name": "[Ability] Caduta Mele",
+                    "text": "Una sola volta durante il tuo turno, puoi mettere due segnalini danno su uno dei Pokémon del tuo avversario. Se hai messo dei segnalini danno in questo modo, rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo."
+                },
+                "la": {
+                    "name": "[Ability] Caída de Manzanas",
+                    "text": "Una vez durante tu turno, puedes poner 2 contadores de daño en 1 de los Pokémon de tu rival. Si has puesto algún contador de daño de esta manera, pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas."
+                },
+                "ptbr": {
+                    "name": "[Ability] Maçã Caída",
+                    "text": "Uma vez durante o seu turno, você poderá colocar 2 contadores de dano em 1 dos Pokémon do seu oponente. Se você colocou algum contador de dano desta forma, embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Fire",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "3": {
+        "id": "swsh10a_3",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 150,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Horsea",
+        "name": {
+            "de": "Seedraking",
+            "en": "Kingdra",
+            "es": "Kingdra",
+            "fr": "Hyporoi",
+            "it": "Kingdra",
+            "la": "Kingdra",
+            "ptbr": "Kingdra"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 1,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Aqua Burst",
+                    "text": "This attack does 40 damage for each water Energy attached to this Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Aquasalve",
+                    "text": "Diese Attacke fügt für jede an dieses Pokémon angelegte water-Energie 40 Schadenspunkte zu."
+                },
+                "es": {
+                    "name": "Estallido Acuático",
+                    "text": "Este ataque hace 40 puntos de daño por cada Energía water unida a este Pokémon."
+                },
+                "fr": {
+                    "name": "Éclat Aquatique",
+                    "text": "Cette attaque inflige 40 dégâts pour chaque Énergie water attachée à ce Pokémon."
+                },
+                "it": {
+                    "name": "Idroscoppio",
+                    "text": "Questo attacco infligge 40 danni per ogni Energia water assegnata a questo Pokémon."
+                },
+                "la": {
+                    "name": "Estallido Acuático",
+                    "text": "Este ataque hace 40 puntos de daño por cada Energía water unida a este Pokémon."
+                },
+                "ptbr": {
+                    "name": "Explosão Aquática",
+                    "text": "Este ataque causa 40 pontos de dano para cada Energia water ligada a este Pokémon."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Deep Sea King",
+                    "text": "When your Active Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move any amount of water Energy from that Pokémon to this Pokémon."
+                },
+                "de": {
+                    "name": "[Ability] Tiefseekönig",
+                    "text": "Wenn dein Aktives Pokémon durch Schaden einer Attacke der Pokémon deines Gegners kampfunfähig wird, kannst du beliebig viele water-Energien von jenem Pokémon auf dieses Pokémon verschieben."
+                },
+                "es": {
+                    "name": "[Ability] Rey del Mar Profundo",
+                    "text": "Cuando tu Pokémon Activo queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, puedes mover cualquier cantidad de Energías water de ese Pokémon a este Pokémon."
+                },
+                "fr": {
+                    "name": "[Ability] Roi des Abysses",
+                    "text": "Lorsque votre Pokémon Actif est mis K.O. par les dégâts d'une attaque de l'un des Pokémon de votre adversaire, vous pouvez déplacer autant d'Énergie water que vous le voulez de ce Pokémon-là vers celui-ci."
+                },
+                "it": {
+                    "name": "[Ability] Re degli Abissi",
+                    "text": "Quando il tuo Pokémon attivo viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, puoi spostare un numero qualsiasi di Energie water da quel Pokémon a questo Pokémon."
+                },
+                "la": {
+                    "name": "[Ability] Rey del Mar Profundo",
+                    "text": "Cuando tu Pokémon Activo queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, puedes mover cualquier cantidad de Energías water de ese Pokémon a este Pokémon."
+                },
+                "ptbr": {
+                    "name": "[Ability] Rei do Mar Profundo",
+                    "text": "Quando seu Pokémon Ativo for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, você poderá mover qualquer quantidade de Energia water daquele Pokémon para este Pokémon."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Lightning",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "4": {
+        "id": "swsh10a_4",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 90,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": {
+            "de": "Mottineva",
+            "en": "Frosmoth",
+            "es": "Frosmoth",
+            "fr": "Beldeneige",
+            "it": "Frosmoth",
+            "la": "Frosmoth",
+            "ptbr": "Frosmoth"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Aurora Beam",
+                    "text": ""
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Aurorastrahl",
+                    "text": ""
+                },
+                "es": {
+                    "name": "Rayo Aurora",
+                    "text": ""
+                },
+                "fr": {
+                    "name": "Onde Boréale",
+                    "text": ""
+                },
+                "it": {
+                    "name": "Raggiaurora",
+                    "text": ""
+                },
+                "la": {
+                    "name": "Rayo Aurora",
+                    "text": ""
+                },
+                "ptbr": {
+                    "name": "Raio Aurora",
+                    "text": ""
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Ice Dance",
+                    "text": "As often as you like during your turn, you may attach a water Energy card from your hand to 1 of your Benched water Pokémon."
+                },
+                "de": {
+                    "name": "[Ability] Eistanz",
+                    "text": "Beliebig oft während deines Zuges kannst du 1 water-Energiekarte aus deiner Hand an 1 water-Pokémon auf deiner Bank anlegen."
+                },
+                "es": {
+                    "name": "[Ability] Danza Helada",
+                    "text": "Todas las veces que quieras durante tu turno, puedes unir 1 carta de Energía water de tu mano a 1 de tus Pokémon water en Banca."
+                },
+                "fr": {
+                    "name": "[Ability] Danse de Glace",
+                    "text": "Autant de fois que vous le voulez pendant votre tour, vous pouvez attacher une carte Énergie water de votre main à l'un de vos Pokémon water de Banc."
+                },
+                "it": {
+                    "name": "[Ability] Danza del Ghiaccio",
+                    "text": "Durante il tuo turno, puoi assegnare a uno dei tuoi Pokémon water in panchina una carta Energia water dalla tua mano tutte le volte che vuoi."
+                },
+                "la": {
+                    "name": "[Ability] Danza Helada",
+                    "text": "Todas las veces que quieras durante tu turno, puedes unir 1 carta de Energía water de tu mano a 1 de tus Pokémon water en Banca."
+                },
+                "ptbr": {
+                    "name": "[Ability] Dança de Gelo",
+                    "text": "Quantas vezes desejar durante o seu turno, você poderá ligar 1 carta de Energia water da sua mão a 1 dos seus Pokémon water no Banco."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Metal",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "5": {
+        "id": "swsh10a_5",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 140,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": {
+            "de": "Guardevoir",
+            "en": "Gardevoir",
+            "es": "Gardevoir",
+            "fr": "Gardevoir",
+            "it": "Gardevoir",
+            "la": "Gardevoir",
+            "ptbr": "Gardevoir"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Brainwave",
+                    "text": "This attack does 30 more damage for each psychic Energy attached to this Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Gehirnwelle",
+                    "text": "Diese Attacke fügt für jede an dieses Pokémon angelegte psychic-Energie 30 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Onda Cerebral",
+                    "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a este Pokémon."
+                },
+                "fr": {
+                    "name": "Onde Cérébrale",
+                    "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie psychic attachée à ce Pokémon."
+                },
+                "it": {
+                    "name": "Onda Cerebrale",
+                    "text": "Questo attacco infligge 30 danni in più per ogni Energia psychic assegnata a questo Pokémon."
+                },
+                "la": {
+                    "name": "Onda Cerebral",
+                    "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a este Pokémon."
+                },
+                "ptbr": {
+                    "name": "Onda Cerebral",
+                    "text": "Este ataque causa 30 pontos de dano a mais para cada Energia psychic ligada a este Pokémon."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Shining Arcana",
+                    "text": "Once during your turn, you may look at the top 2 cards of your deck and attach any number of basic Energy cards you find there to your Pokémon in any way you like. Put the other cards into your hand."
+                },
+                "de": {
+                    "name": "[Ability] Schimmernde Arkana",
+                    "text": "Einmal während deines Zuges kannst du dir die obersten 2 Karten deines Decks anschauen und beliebig viele Basis-Energiekarten, die du dort findest, beliebig an deine Pokémon anlegen. Nimm die anderen Karten auf deine Hand."
+                },
+                "es": {
+                    "name": "[Ability] Arcano Radiante",
+                    "text": "Una vez durante tu turno, puedes mirar las 2 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas en tu mano."
+                },
+                "fr": {
+                    "name": "[Ability] Arcane Brillant",
+                    "text": "Une fois pendant votre tour, vous pouvez regarder les 2 cartes du dessus de votre deck puis attacher le nombre voulu de cartes Énergie de base que vous y trouvez à vos Pokémon, comme il vous plaît. Ajoutez les autres cartes à votre main."
+                },
+                "it": {
+                    "name": "[Ability] Arcani Lucenti",
+                    "text": "Una sola volta durante il tuo turno, puoi guardare le prime due carte del tuo mazzo e assegnare un numero qualsiasi di carte Energia base presenti tra esse ai tuoi Pokémon nel modo che preferisci. Aggiungi le altre carte a quelle che hai in mano."
+                },
+                "la": {
+                    "name": "[Ability] Arcano Radiante",
+                    "text": "Una vez durante tu turno, puedes mirar las 2 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía Básica que encuentres entre ellas a tus Pokémon de la manera que desees. Pon el resto de las cartas en tu mano."
+                },
+                "ptbr": {
+                    "name": "[Ability] Arcano Brilhante",
+                    "text": "Uma vez durante o seu turno, você poderá olhar as 2 cartas de cima do seu baralho e ligar qualquer número de cartas de Energia básica que encontrar lá aos seus Pokémon como desejar. Coloque as outras cartas na sua mão."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Metal",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "6": {
+        "id": "swsh10a_6",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 140,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Stantler",
+        "name": {
+            "de": "Damythir",
+            "en": "Wyrdeer",
+            "es": "Wyrdeer",
+            "fr": "Cerbyllin",
+            "it": "Wyrdeer",
+            "la": "Wyrdeer",
+            "ptbr": "Wyrdeer"
+        },
+        "regulation": "F",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Extrasensory",
+                    "text": "If you have the same number of cards in your hand as your opponent, this attack does 80 more damage."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Sondersensor",
+                    "text": "Wenn du genauso viele Karten auf der Hand hast wie dein Gegner, fügt diese Attacke 80 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Paranormal",
+                    "text": "Si tienes la misma cantidad de cartas en tu mano que tu rival, este ataque hace 80 puntos de daño más."
+                },
+                "fr": {
+                    "name": "Extrasenseur",
+                    "text": "Si vous avez le même nombre de cartes dans votre main que votre adversaire, cette attaque inflige 80 dégâts supplémentaires."
+                },
+                "it": {
+                    "name": "Extrasenso",
+                    "text": "Se hai lo stesso numero di carte in mano del tuo avversario, questo attacco infligge 80 danni in più."
+                },
+                "la": {
+                    "name": "Paranormal",
+                    "text": "Si tienes la misma cantidad de cartas en tu mano que tu rival, este ataque hace 80 puntos de daño más."
+                },
+                "ptbr": {
+                    "name": "Extrassensorial",
+                    "text": "Se você tiver o mesmo número de cartas na sua mão do que seu oponente, este ataque causará 80 pontos de dano a mais."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Hurried Gait",
+                    "text": "Once during your turn, you may draw a card."
+                },
+                "de": {
+                    "name": "[Ability] Eiliger Gang",
+                    "text": "Einmal während deines Zuges kannst du 1 Karte ziehen."
+                },
+                "es": {
+                    "name": "[Ability] Marcha Apresurada",
+                    "text": "Una vez durante tu turno, puedes robar 1 carta."
+                },
+                "fr": {
+                    "name": "[Ability] Allure Pressée",
+                    "text": "Une fois pendant votre tour, vous pouvez piocher une carte."
+                },
+                "it": {
+                    "name": "[Ability] Andatura Frettolosa",
+                    "text": "Una sola volta durante il tuo turno, puoi pescare una carta."
+                },
+                "la": {
+                    "name": "[Ability] Marcha Apresurada",
+                    "text": "Una vez durante tu turno, puedes robar 1 carta."
+                },
+                "ptbr": {
+                    "name": "[Ability] Marcha Apressada",
+                    "text": "Uma vez durante o seu turno, você poderá comprar 1 carta."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Dark",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Fighting",
+            "amount": "-30"
+        }
+    },
+    "7": {
+        "id": "swsh10a_7",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Rapid Strike",
+            "Basic Stage"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 110,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Falinks",
+        "name": {
+            "de": "Legios",
+            "en": "Falinks",
+            "es": "Falinks",
+            "fr": "Hexadron",
+            "it": "Falinks",
+            "la": "Falinks",
+            "ptbr": "Falinks"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Rapid Strike Squad",
+                    "text": "This attack does 20 damage for each of your Rapid Strike Pokémon in play."
+                },
+                "cost": "FC",
+                "damage": "20Ã",
+                "de": {
+                    "name": "Fließender-Angriff-Trupp",
+                    "text": "Diese Attacke fügt für jedes deiner Fließender-Angriff-Pokémon im Spiel 20 Schadenspunkte zu."
+                },
+                "es": {
+                    "name": "Escuadrón Golpe Fluido",
+                    "text": "Este ataque hace 20 puntos de daño por cada uno de tus Pokémon Golpe Fluido en juego."
+                },
+                "fr": {
+                    "name": "Brigade à Mille Poings",
+                    "text": "Cette attaque inflige 20 dégâts pour chacun de vos Pokémon Mille Poings en jeu."
+                },
+                "it": {
+                    "name": "Squadra Colpo Rapido",
+                    "text": "Questo attacco infligge 20 danni per ogni tuo Pokémon Colpo Rapido in gioco."
+                },
+                "la": {
+                    "name": "Escuadrón Golpe Fluido",
+                    "text": "Este ataque hace 20 puntos de daño por cada uno de tus Pokémon Golpe Fluido en juego."
+                },
+                "ptbr": {
+                    "name": "Esquadrão Golpe Fluido",
+                    "text": "Este ataque causa 20 pontos de dano para cada um dos seus Pokémon Golpe Fluido em jogo."
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "Psychic",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "8": {
+        "id": "swsh10a_8",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 140,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Scyther",
+        "name": {
+            "de": "Axantor",
+            "en": "Kleavor",
+            "es": "Kleavor",
+            "fr": "Hachécateur",
+            "it": "Kleavor",
+            "la": "Kleavor",
+            "ptbr": "Kleavor"
+        },
+        "regulation": "F",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Timber Cleave",
+                    "text": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."
+                },
+                "cost": "CC",
+                "damage": "",
+                "de": {
+                    "name": "Baumspalter",
+                    "text": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, ist das Aktive Pokémon deines Gegners kampfunfähig."
+                },
+                "es": {
+                    "name": "Cortamadera",
+                    "text": "Lanza 2 monedas. Si ambas son cara, el Pokémon Activo de tu rival queda Fuera de Combate."
+                },
+                "fr": {
+                    "name": "Découpe Bois",
+                    "text": "Lancez 2 pièces. Si vous obtenez 2 côtés face, le Pokémon Actif de votre adversaire est mis K.O."
+                },
+                "it": {
+                    "name": "Fendente Legnoso",
+                    "text": "Lancia due volte una moneta. Se esce entrambe le volte testa, il Pokémon attivo del tuo avversario viene messo KO."
+                },
+                "la": {
+                    "name": "Cortamadera",
+                    "text": "Lanza 2 monedas. Si ambas son cara, el Pokémon Activo de tu rival queda Fuera de Combate."
+                },
+                "ptbr": {
+                    "name": "Cutelo de Madeira",
+                    "text": "Jogue 2 moedas. Se as duas saírem cara, o Pokémon Ativo do seu oponente será Nocauteado."
+                }
+            },
+            {
+                "en": {
+                    "name": "Berserker Tackle",
+                    "text": "This Pokémon also does 30 damage to itself."
+                },
+                "cost": "CC",
+                "damage": "",
+                "de": {
+                    "name": "Berserkerwut",
+                    "text": "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu."
+                },
+                "es": {
+                    "name": "Placaje Locura",
+                    "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."
+                },
+                "fr": {
+                    "name": "Charge Folle",
+                    "text": "Ce Pokémon s'inflige aussi 30 dégâts."
+                },
+                "it": {
+                    "name": "Assalto Brado",
+                    "text": "Questo Pokémon infligge anche 30 danni a se stesso."
+                },
+                "la": {
+                    "name": "Placaje Locura",
+                    "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."
+                },
+                "ptbr": {
+                    "name": "Investida Frenética",
+                    "text": "Este Pokémon também causa 30 pontos de dano a si mesmo."
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "Grass",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "9": {
+        "id": "swsh10a_9",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 110,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": {
+            "de": "Magnayen",
+            "en": "Mightyena",
+            "es": "Mightyena",
+            "fr": "Grahyèna",
+            "it": "Mightyena",
+            "la": "Mightyena",
+            "ptbr": "Mightyena"
+        },
+        "regulation": "F",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Wild Tackle",
+                    "text": "This Pokémon also does 50 damage to itself."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Wilder Tackle",
+                    "text": "Dieses Pokémon fügt auch sich selbst 50 Schadenspunkte zu."
+                },
+                "es": {
+                    "name": "Placaje Salvaje",
+                    "text": "Este Pokémon también se hace 50 puntos de daño a sí mismo."
+                },
+                "fr": {
+                    "name": "Tacle Brutal",
+                    "text": "Ce Pokémon s'inflige aussi 50 dégâts."
+                },
+                "it": {
+                    "name": "Azionferoce",
+                    "text": "Questo Pokémon infligge anche 50 danni a se stesso."
+                },
+                "la": {
+                    "name": "Placaje Salvaje",
+                    "text": "Este Pokémon también se hace 50 puntos de daño a sí mismo."
+                },
+                "ptbr": {
+                    "name": "Investida Feroz",
+                    "text": "Este Pokémon também causa 50 pontos de dano a si mesmo."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Hustle Bark",
+                    "text": "If your opponent has any Pokémon vMax_atk in play, this Pokémon's attacks cost colorlesscolorlesscolorless less."
+                },
+                "de": {
+                    "name": "[Ability] Ehrgeiziges Bellen",
+                    "text": "Wenn dein Gegner mindestens 1 Pokémon-vMax_atk im Spiel hat, verringern sich die Kosten der Attacken dieses Pokémon um colorlesscolorlesscolorless."
+                },
+                "es": {
+                    "name": "[Ability] Ladrido Apremiante",
+                    "text": "Si tu rival tiene algún Pokémon vMax_atk en juego, los ataques de este Pokémon cuestan colorlesscolorlesscolorless menos."
+                },
+                "fr": {
+                    "name": "[Ability] Aboiement Acharné",
+                    "text": "Si votre adversaire a au moins un Pokémon-vMax_atk en jeu, les attaques de ce Pokémon coûtent colorlesscolorlesscolorless de moins."
+                },
+                "it": {
+                    "name": "[Ability] Abbaiare Frenetico",
+                    "text": "Se il tuo avversario ha dei Pokémon-vMax_atk in gioco, il costo degli attacchi di questo Pokémon è ridotto di colorlesscolorlesscolorless."
+                },
+                "la": {
+                    "name": "[Ability] Ladrido Apremiante",
+                    "text": "Si tu rival tiene algún Pokémon vMax_atk en juego, los ataques de este Pokémon cuestan colorlesscolorlesscolorless menos."
+                },
+                "ptbr": {
+                    "name": "[Ability] Latido Alvoroçado",
+                    "text": "Se o seu oponente tiver algum Pokémon vMax_atk em jogo, os ataques deste Pokémon custarão colorlesscolorlesscolorless a menos."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Grass",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "10": {
+        "id": "swsh10a_10",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 160,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "",
+        "name": {
+            "de": "Galar-Barrikadax",
+            "en": "Galarian Obstagoon",
+            "es": "Obstagoon de Galar",
+            "fr": "Ixon de Galar",
+            "it": "Obstagoon di Galar",
+            "la": "Obstagoon de Galar",
+            "ptbr": "Obstagoon de Galar"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Obstruct",
+                    "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Abblocker",
+                    "text": "Verhindere während des nächsten Zuges deines Gegners allen Schaden, der diesem Pokémon durch Attacken von Basis-Pokémon zugefügt wird."
+                },
+                "es": {
+                    "name": "Obstrucción",
+                    "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Básicos."
+                },
+                "fr": {
+                    "name": "Blocage",
+                    "text": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon de base."
+                },
+                "it": {
+                    "name": "Sbarramento",
+                    "text": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon Base."
+                },
+                "la": {
+                    "name": "Obstrucción",
+                    "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Básicos."
+                },
+                "ptbr": {
+                    "name": "Obstruir",
+                    "text": "Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques de Pokémon Básicos."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Untamed Shout",
+                    "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon."
+                },
+                "de": {
+                    "name": "[Ability] Ungezähmter Schrei",
+                    "text": "Wenn du dieses Pokémon während deines Zuges aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 3 Schadensmarken auf 1 Pokémon deines Gegners legen."
+                },
+                "es": {
+                    "name": "[Ability] Grito Salvaje",
+                    "text": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes poner 3 contadores de daño en 1 de los Pokémon de tu rival."
+                },
+                "fr": {
+                    "name": "[Ability] Cri Sauvage",
+                    "text": "Lorsque vous jouez ce Pokémon de votre main pour faire évoluer l'un de vos Pokémon pendant votre tour, vous pouvez placer 3 marqueurs de dégâts sur l'un des Pokémon de votre adversaire."
+                },
+                "it": {
+                    "name": "[Ability] Squarciagola",
+                    "text": "Quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon durante il tuo turno, puoi mettere tre segnalini danno su uno dei Pokémon del tuo avversario."
+                },
+                "la": {
+                    "name": "[Ability] Grito Salvaje",
+                    "text": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes poner 3 contadores de daño en 1 de los Pokémon de tu rival."
+                },
+                "ptbr": {
+                    "name": "[Ability] Grito Indomado",
+                    "text": "Quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon durante o seu turno, você poderá colocar 3 contadores de dano em 1 dos Pokémon do seu oponente."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Grass",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "11": {
+        "id": "swsh10a_11",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 110,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Bronzor",
+        "evolvesInto": {
+            "de": [
+                "Bronzong BREAK"
+            ],
+            "en": [
+                "Bronzong BREAK"
+            ],
+            "es": [
+                "Bronzong BREAK"
+            ],
+            "fr": [
+                "Bronzong BREAK"
+            ],
+            "it": [
+                "Bronzong BREAK"
+            ],
+            "la": [
+                "Bronzong BREAK"
+            ],
+            "ptbr": [
+                "Bronzong BREAK"
+            ]
+        },
+        "name": {
+            "de": "Bronzong",
+            "en": "Bronzong",
+            "es": "Bronzong",
+            "fr": "Archéodong",
+            "it": "Bronzong",
+            "la": "Bronzong",
+            "ptbr": "Bronzong"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 3,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Zen Headbutt",
+                    "text": ""
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Zen-Kopfstoß",
+                    "text": ""
+                },
+                "es": {
+                    "name": "Cabezazo Zen",
+                    "text": ""
+                },
+                "fr": {
+                    "name": "Psykoud'Boul",
+                    "text": ""
+                },
+                "it": {
+                    "name": "Cozzata Zen",
+                    "text": ""
+                },
+                "la": {
+                    "name": "Cabezazo Zen",
+                    "text": ""
+                },
+                "ptbr": {
+                    "name": "Cabeçada Zen",
+                    "text": ""
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Metal Transfer",
+                    "text": "As often as you like during your turn, you may move a metal Energy from 1 of your Pokémon to another of your Pokémon."
+                },
+                "de": {
+                    "name": "[Ability] Metalltransfer",
+                    "text": "Beliebig oft während deines Zuges kannst du 1 metal-Energie von 1 deiner Pokémon auf 1 anderes deiner Pokémon verschieben."
+                },
+                "es": {
+                    "name": "[Ability] Traspaso Metálico",
+                    "text": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía metal de 1 de tus Pokémon a otro de tus Pokémon."
+                },
+                "fr": {
+                    "name": "[Ability] Transfert de Métal",
+                    "text": "Autant de fois que vous le voulez pendant votre tour, vous pouvez déplacer une Énergie metal de l'un de vos Pokémon vers un autre de vos Pokémon."
+                },
+                "it": {
+                    "name": "[Ability] Spostametallo",
+                    "text": "Durante il tuo turno, puoi spostare un'Energia metal da uno a un altro dei tuoi Pokémon tutte le volte che vuoi."
+                },
+                "la": {
+                    "name": "[Ability] Traspaso Metálico",
+                    "text": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía metal de 1 de tus Pokémon a otro de tus Pokémon."
+                },
+                "ptbr": {
+                    "name": "[Ability] Transferência de Metal",
+                    "text": "Quantas vezes desejar durante o seu turno, você poderá mover 1 Energia metal de 1 dos seus Pokémon para outro Pokémon seu."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Fire",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Grass",
+            "amount": "-30"
+        }
+    },
+    "12": {
+        "id": "swsh10a_12",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage"
+        ],
+        "types": [
+            "Colorless"
+        ],
+        "hp": 50,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Hoothoot",
+        "evolvesInto": {
+            "de": [
+                "Noctowl"
+            ],
+            "en": [
+                "Noctowl"
+            ],
+            "es": [
+                "Noctowl"
+            ],
+            "fr": [
+                "Noctowl"
+            ],
+            "it": [
+                "Noctowl"
+            ],
+            "la": [
+                "Noctowl"
+            ],
+            "ptbr": [
+                "Noctowl"
+            ]
+        },
+        "name": {
+            "de": "Hoothoot",
+            "en": "Hoothoot",
+            "es": "Hoothoot",
+            "fr": "Hoothoot",
+            "it": "Hoothoot",
+            "la": "Hoothoot",
+            "ptbr": "Hoothoot"
+        },
+        "regulation": "F",
+        "rarity": {
+            "CompSea": "CharacterRare",
+            "Dust": "CharacterRare",
+            "Loc": "CharacterRare"
+        },
+        "retreat": 1,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Flap",
+                    "text": ""
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Flattern",
+                    "text": ""
+                },
+                "es": {
+                    "name": "Aleteo",
+                    "text": ""
+                },
+                "fr": {
+                    "name": "Battement",
+                    "text": ""
+                },
+                "it": {
+                    "name": "Alabattito",
+                    "text": ""
+                },
+                "la": {
+                    "name": "Aleteo",
+                    "text": ""
+                },
+                "ptbr": {
+                    "name": "Asa",
+                    "text": ""
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Stand Sentry",
+                    "text": "Basic Energy attached to your Benched Pokémon can't be discarded by an effect of your opponent's Item or Supporter cards."
+                },
+                "de": {
+                    "name": "[Ability] Wache stehen",
+                    "text": "An die Pokémon auf deiner Bank angelegte Basis-Energien können nicht durch einen Effekt von Item- oder Unterstützerkarten deines Gegners auf deinen Ablagestapel gelegt werden."
+                },
+                "es": {
+                    "name": "[Ability] Posición Centinela",
+                    "text": "Las Energías Básicas unidas a tus Pokémon en Banca no pueden descartarse por ningún efecto de las cartas de Objeto o de Partidario de tu rival."
+                },
+                "fr": {
+                    "name": "[Ability] Veilleur au Guet",
+                    "text": "Les Énergies de base attachées à vos Pokémon de Banc ne peuvent pas être défaussées par les effets des cartes Objet ou Supporter de votre adversaire."
+                },
+                "it": {
+                    "name": "[Ability] Sentinella in Posizione",
+                    "text": "Nessuna Energia base assegnata ai tuoi Pokémon in panchina può essere scartata per effetto delle carte Strumento o carte Aiuto del tuo avversario."
+                },
+                "la": {
+                    "name": "[Ability] Posición Centinela",
+                    "text": "Las Energías Básicas unidas a tus Pokémon en Banca no pueden descartarse por ningún efecto de las cartas de Objeto o de Partidario de tu rival."
+                },
+                "ptbr": {
+                    "name": "[Ability] Ficar de Sentinela",
+                    "text": "Energias básicas ligadas aos seus Pokémon no Banco não podem ser descartadas pelos efeitos de cartas de Item ou Apoiador do seu oponente."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Lightning",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Fighting",
+            "amount": "-30"
+        }
+    },
+    "13": {
+        "id": "swsh10a_13",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 190,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Starmie V",
+        "name": {
+            "de": "Starmie-V",
+            "en": "Starmie V",
+            "es": "Starmie V",
+            "fr": "Staross-V",
+            "it": "Starmie-V",
+            "la": "Starmie V",
+            "ptbr": "Starmie V"
+        },
+        "regulation": "F",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 0,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Swift",
+                    "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
+                },
+                "cost": "CC",
+                "damage": "50",
+                "de": {
+                    "name": "Sternschauer",
+                    "text": "Der Schaden dieser Attacke wird durch Schwäche, Resistenz oder Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert."
+                },
+                "es": {
+                    "name": "Rapidez",
+                    "text": "El daño de este ataque no se ve afectado por Debilidad o Resistencia, o por ningún efecto en el Pokémon Activo de tu rival."
+                },
+                "fr": {
+                    "name": "Météores",
+                    "text": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur le Pokémon Actif de votre adversaire."
+                },
+                "it": {
+                    "name": "Comete",
+                    "text": "I danni di questo attacco non sono influenzati dalla debolezza o dalla resistenza, o da alcun effetto presente sul Pokémon attivo del tuo avversario."
+                },
+                "la": {
+                    "name": "Rapidez",
+                    "text": "El daño de este ataque no se ve afectado por Debilidad o Resistencia, o por ningún efecto en el Pokémon Activo de tu rival."
+                },
+                "ptbr": {
+                    "name": "Ataque Veloz",
+                    "text": "O dano deste ataque não é afetado por Fraqueza ou Resistência, ou por quaisquer efeitos no Pokémon Ativo do seu oponente."
+                }
+            },
+            {
+                "en": {
+                    "name": "Energy Spiral",
+                    "text": "This attack does 50 damage for each Energy attached to all of your opponent's Pokémon."
+                },
+                "cost": "CC",
+                "damage": "50",
+                "de": {
+                    "name": "Energiespirale",
+                    "text": "Diese Attacke fügt für jede an alle Pokémon deines Gegners angelegte Energie 50 Schadenspunkte zu."
+                },
+                "es": {
+                    "name": "Espiral de Energía",
+                    "text": "Este ataque hace 50 puntos de daño por cada Energía unida a todos los Pokémon de tu rival."
+                },
+                "fr": {
+                    "name": "Spirale Énergie",
+                    "text": "Cette attaque inflige 50 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."
+                },
+                "it": {
+                    "name": "Spirale Energetica",
+                    "text": "Questo attacco infligge 50 danni per ogni Energia assegnata ai Pokémon del tuo avversario."
+                },
+                "la": {
+                    "name": "Espiral de Energía",
+                    "text": "Este ataque hace 50 puntos de daño por cada Energía unida a todos los Pokémon de tu rival."
+                },
+                "ptbr": {
+                    "name": "Espiral de Energia",
+                    "text": "Este ataque causa 50 pontos de dano para cada Energia ligada a todos os Pokémon do seu oponente."
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "Lightning",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "14": {
+        "id": "swsh10a_14",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 210,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Calyrex Cavaleiro Glacial V",
+        "evolvesInto": {
+            "de": [
+                "Ice Rider Calyrex VMAX"
+            ],
+            "en": [
+                "Ice Rider Calyrex VMAX"
+            ],
+            "es": [
+                "Ice Rider Calyrex VMAX"
+            ],
+            "fr": [
+                "Ice Rider Calyrex VMAX"
+            ],
+            "it": [
+                "Ice Rider Calyrex VMAX"
+            ],
+            "la": [
+                "Ice Rider Calyrex VMAX"
+            ],
+            "ptbr": [
+                "Ice Rider Calyrex VMAX"
+            ]
+        },
+        "name": {
+            "de": "Schimmelreiter-Coronospa-V",
+            "en": "Ice Rider Calyrex V",
+            "es": "Calyrex Jinete Glacial V",
+            "fr": "Sylveroy Cavalier du Froid-V",
+            "it": "Calyrex Cavaliere Glaciale-V",
+            "la": "Calyrex Jinete Glacial V",
+            "ptbr": "Calyrex Cavaleiro Glacial V"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Pierce",
+                    "text": ""
+                },
+                "cost": "W",
+                "damage": "40",
+                "de": {
+                    "name": "Durchbohren",
+                    "text": ""
+                },
+                "es": {
+                    "name": "Perforar",
+                    "text": ""
+                },
+                "fr": {
+                    "name": "Transpercement",
+                    "text": ""
+                },
+                "it": {
+                    "name": "Perforare",
+                    "text": ""
+                },
+                "la": {
+                    "name": "Perforar",
+                    "text": ""
+                },
+                "ptbr": {
+                    "name": "Perfurar",
+                    "text": ""
+                }
+            },
+            {
+                "en": {
+                    "name": "Glacial Lance",
+                    "text": "Discard 2 Energy from this Pokémon."
+                },
+                "cost": "W",
+                "damage": "40",
+                "de": {
+                    "name": "Blizzardlanze",
+                    "text": "Lege 2 Energien von diesem Pokémon auf deinen Ablagestapel."
+                },
+                "es": {
+                    "name": "Lanza Glacial",
+                    "text": "Descarta 2 Energías de este Pokémon."
+                },
+                "fr": {
+                    "name": "Lance de Glace",
+                    "text": "Défaussez 2 Énergies de ce Pokémon."
+                },
+                "it": {
+                    "name": "Lancia Glaciale",
+                    "text": "Scarta due Energie da questo Pokémon."
+                },
+                "la": {
+                    "name": "Lanza Glacial",
+                    "text": "Descarta 2 Energías de este Pokémon."
+                },
+                "ptbr": {
+                    "name": "Lança Glacial",
+                    "text": "Descarte 2 Energias deste Pokémon."
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "Metal",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "15": {
+        "id": "swsh10a_15",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "VMAX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 320,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Calyrex Cavaleiro Glacial V",
+        "name": {
+            "de": "Schimmelreiter-Coronospa-VMAX",
+            "en": "Ice Rider Calyrex VMAX",
+            "es": "Calyrex Jinete Glacial VMAX",
+            "fr": "Sylveroy Cavalier du Froid-VMAX",
+            "it": "Calyrex Cavaliere Glaciale-VMAX",
+            "la": "Calyrex Jinete Glacial VMAX",
+            "ptbr": "Calyrex Cavaleiro Glacial VMAX"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Ride of the High King",
+                    "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+                },
+                "cost": "CC",
+                "damage": "10+",
+                "de": {
+                    "name": "Ritt des Kaisers",
+                    "text": "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 30 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Paseo del Emperador",
+                    "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."
+                },
+                "fr": {
+                    "name": "Chevauchée Impériale",
+                    "text": "Cette attaque inflige 30 dégâts supplémentaires pour chacun des Pokémon de Banc de votre adversaire."
+                },
+                "it": {
+                    "name": "Cavalcata dell'Imperatore",
+                    "text": "Questo attacco infligge 30 danni in più per ogni Pokémon nella panchina del tuo avversario."
+                },
+                "la": {
+                    "name": "Paseo del Emperador",
+                    "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."
+                },
+                "ptbr": {
+                    "name": "Montaria do Rei Supremo",
+                    "text": "Este ataque causa 30 pontos de dano a mais para cada Pokémon no Banco do seu oponente."
+                }
+            },
+            {
+                "en": {
+                    "name": "Max Lance",
+                    "text": "You may discard up to 2 Energy from this Pokémon. If you do, this attack does 120 more damage for each card you discarded in this way."
+                },
+                "cost": "CC",
+                "damage": "10+",
+                "de": {
+                    "name": "Dyna-Lanze",
+                    "text": "Du kannst bis zu 2 Energien von diesem Pokémon auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke für jede auf diese Weise abgelegte Karte 120 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Maxilanza",
+                    "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."
+                },
+                "fr": {
+                    "name": "Lançomax",
+                    "text": "Vous pouvez défausser jusqu'à 2 Énergies de ce Pokémon. Dans ce cas, cette attaque inflige 120 dégâts supplémentaires pour chaque carte défaussée de cette façon."
+                },
+                "it": {
+                    "name": "Dynalancia",
+                    "text": "Puoi scartare fino a due Energie da questo Pokémon. Se lo fai, questo attacco infligge 120 danni in più per ogni carta che hai scartato in questo modo."
+                },
+                "la": {
+                    "name": "Maxilanza",
+                    "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."
+                },
+                "ptbr": {
+                    "name": "Lança Longa Max",
+                    "text": "Você pode descartar até 2 Energias deste Pokémon. Se fizer isto, este ataque causará 120 pontos de dano a mais para cada carta descartada desta forma."
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "Metal",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "16": {
+        "id": "swsh10a_16",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 210,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Articuno de Galar V",
+        "name": {
+            "de": "Galar-Arktos-V",
+            "en": "Galarian Articuno V",
+            "es": "Articuno de Galar V",
+            "fr": "Artikodin de Galar-V",
+            "it": "Articuno di Galar-V",
+            "la": "Articuno de Galar V",
+            "ptbr": "Articuno de Galar V"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Psyray",
+                    "text": "Your opponent's Active Pokémon is now Confused."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Psyschein",
+                    "text": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+                },
+                "es": {
+                    "name": "Rayo Psíquico",
+                    "text": "El Pokémon Activo de tu rival pasa a estar Confundido."
+                },
+                "fr": {
+                    "name": "Rayon Psy",
+                    "text": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+                },
+                "it": {
+                    "name": "Psicobagliore",
+                    "text": "Il Pokémon attivo del tuo avversario viene confuso."
+                },
+                "la": {
+                    "name": "Rayo Psíquico",
+                    "text": "El Pokémon Activo de tu rival pasa a estar Confundido."
+                },
+                "ptbr": {
+                    "name": "Psicorraio",
+                    "text": "O Pokémon Ativo do seu oponente agora está Confuso."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Reconstitute",
+                    "text": "You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card."
+                },
+                "de": {
+                    "name": "[Ability] Rekonfigurieren",
+                    "text": "Du musst 2 Karten aus deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 1 Karte ziehen."
+                },
+                "es": {
+                    "name": "[Ability] Reconstitución",
+                    "text": "Debes descartar 2 cartas de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta."
+                },
+                "fr": {
+                    "name": "[Ability] Reconstitution",
+                    "text": "Vous devez défausser 2 cartes de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez piocher une carte."
+                },
+                "it": {
+                    "name": "[Ability] Ricostituzione",
+                    "text": "Devi scartare due carte che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare una carta."
+                },
+                "la": {
+                    "name": "[Ability] Reconstitución",
+                    "text": "Debes descartar 2 cartas de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta."
+                },
+                "ptbr": {
+                    "name": "[Ability] Reconstituição",
+                    "text": "Você deve descartar 2 cartas da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar 1 carta."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Dark",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Fighting",
+            "amount": "-30"
+        }
+    },
+    "17": {
+        "id": "swsh10a_17",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 210,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Calyrex Cavaleiro Espectral V",
+        "evolvesInto": {
+            "de": [
+                "Shadow Rider Calyrex VMAX"
+            ],
+            "en": [
+                "Shadow Rider Calyrex VMAX"
+            ],
+            "es": [
+                "Shadow Rider Calyrex VMAX"
+            ],
+            "fr": [
+                "Shadow Rider Calyrex VMAX"
+            ],
+            "it": [
+                "Shadow Rider Calyrex VMAX"
+            ],
+            "la": [
+                "Shadow Rider Calyrex VMAX"
+            ],
+            "ptbr": [
+                "Shadow Rider Calyrex VMAX"
+            ]
+        },
+        "name": {
+            "de": "Rappenreiter-Coronospa-V",
+            "en": "Shadow Rider Calyrex V",
+            "es": "Calyrex Jinete Espectral V",
+            "fr": "Sylveroy Cavalier d'Effroi-V",
+            "it": "Calyrex Cavaliere Spettrale-V",
+            "la": "Calyrex Jinete Espectral V",
+            "ptbr": "Calyrex Cavaleiro Espectral V"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Shadow Mist",
+                    "text": "During your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand."
+                },
+                "cost": "P",
+                "damage": "10",
+                "de": {
+                    "name": "Schattennebel",
+                    "text": "Dein Gegner kann während seines nächsten Zuges keine Spezial-Energien oder Stadionkarten aus seiner Hand spielen."
+                },
+                "es": {
+                    "name": "Neblina Espectral",
+                    "text": "Durante el próximo turno de tu rival, este no puede jugar ninguna carta de Energía Especial o de Estadio de su mano."
+                },
+                "fr": {
+                    "name": "Brume d'Effroi",
+                    "text": "Pendant le prochain tour de votre adversaire, il ne peut pas jouer de cartes Énergie spéciale ou Stade de sa main."
+                },
+                "it": {
+                    "name": "Nebbiombra",
+                    "text": "Durante il prossimo turno del tuo avversario, questi non può giocare le carte Energia speciale o Stadio che ha in mano."
+                },
+                "la": {
+                    "name": "Neblina Espectral",
+                    "text": "Durante el próximo turno de tu rival, este no puede jugar ninguna carta de Energía Especial o de Estadio de su mano."
+                },
+                "ptbr": {
+                    "name": "Névoa das Sombras",
+                    "text": "Durante o próximo turno do seu oponente, ele(a) não poderá jogar nenhuma carta de Energia Especial ou de Estádio da própria mão."
+                }
+            },
+            {
+                "en": {
+                    "name": "Astral Barrage",
+                    "text": "Choose 2 of your opponent's Pokémon and put 5 damage counters on each of them."
+                },
+                "cost": "P",
+                "damage": "10",
+                "de": {
+                    "name": "Astralfragmente",
+                    "text": "Wähle 2 Pokémon deines Gegners und lege 5 Schadensmarken auf jedes von ihnen."
+                },
+                "es": {
+                    "name": "Orbes Espectro",
+                    "text": "Elige 2 de los Pokémon de tu rival y pon 5 contadores de daño en cada uno de ellos."
+                },
+                "fr": {
+                    "name": "Éclat Spectral",
+                    "text": "Choisissez 2 des Pokémon de votre adversaire, puis placez 5 marqueurs de dégâts sur chacun d'eux."
+                },
+                "it": {
+                    "name": "Schegge Astrali",
+                    "text": "Scegli due dei Pokémon del tuo avversario e metti cinque segnalini danno su ciascuno di essi."
+                },
+                "la": {
+                    "name": "Orbes Espectro",
+                    "text": "Elige 2 de los Pokémon de tu rival y pon 5 contadores de daño en cada uno de ellos."
+                },
+                "ptbr": {
+                    "name": "Barricada Astral",
+                    "text": "Escolha 2 dos Pokémon do seu oponente e coloque 5 contadores de dano em cada um deles."
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "Dark",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Fighting",
+            "amount": "-30"
+        }
+    },
+    "18": {
+        "id": "swsh10a_18",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "VMAX"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 320,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Calyrex Cavaleiro Espectral V",
+        "name": {
+            "de": "Rappenreiter-Coronospa-VMAX",
+            "en": "Shadow Rider Calyrex VMAX",
+            "es": "Calyrex Jinete Espectral VMAX",
+            "fr": "Sylveroy Cavalier d'Effroi-VMAX",
+            "it": "Calyrex Cavaliere Spettrale-VMAX",
+            "la": "Calyrex Jinete Espectral VMAX",
+            "ptbr": "Calyrex Cavaleiro Espectral VMAX"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Max Geist",
+                    "text": "This attack does 30 more damage for each psychic Energy attached to all of your Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Dyna-Geist",
+                    "text": "Diese Attacke fügt für jede an alle deine Pokémon angelegte psychic-Energie 30 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Maxiespíritu",
+                    "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."
+                },
+                "fr": {
+                    "name": "Spiritomax",
+                    "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie psychic attachée à tous vos Pokémon."
+                },
+                "it": {
+                    "name": "Dynaspirito",
+                    "text": "Questo attacco infligge 30 danni in più per ogni Energia psychic assegnata ai tuoi Pokémon."
+                },
+                "la": {
+                    "name": "Maxiespíritu",
+                    "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."
+                },
+                "ptbr": {
+                    "name": "Assombração Max",
+                    "text": "Este ataque causa 30 pontos de dano a mais para cada Energia psychic ligada a todos os seus Pokémon."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Underworld Door",
+                    "text": "Once during your turn, you may attach a psychic Energy card from your hand to 1 of your Benched psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards."
+                },
+                "de": {
+                    "name": "[Ability] Tür zur Unterwelt",
+                    "text": "Einmal während deines Zuges kannst du 1 psychic-Energiekarte aus deiner Hand an 1 psychic-Pokémon auf deiner Bank anlegen. Wenn du auf diese Weise Energie an ein Pokémon angelegt hast, ziehe 2 Karten."
+                },
+                "es": {
+                    "name": "[Ability] Puerta del Inframundo",
+                    "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."
+                },
+                "fr": {
+                    "name": "[Ability] Porte des Abîmes",
+                    "text": "Une fois pendant votre tour, vous pouvez attacher une carte Énergie psychic de votre main à l'un de vos Pokémon psychic de Banc. Si vous avez attaché de l'Énergie à un Pokémon de cette façon, piochez 2 cartes."
+                },
+                "it": {
+                    "name": "[Ability] Portale Sottomondo",
+                    "text": "Una sola volta durante il tuo turno, puoi assegnare a uno dei tuoi Pokémon psychic in panchina una carta Energia psychic dalla tua mano. Se hai assegnato dell'Energia a un Pokémon in questo modo, pesca due carte."
+                },
+                "la": {
+                    "name": "[Ability] Puerta del Inframundo",
+                    "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."
+                },
+                "ptbr": {
+                    "name": "[Ability] Portão do Submundo",
+                    "text": "Uma vez durante o seu turno, você poderá ligar 1 carta de Energia psychic da sua mão a 1 dos seus Pokémon psychic no Banco. Se você ligou Energia a um Pokémon desta forma, compre 2 cartas."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Dark",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Fighting",
+            "amount": "-30"
+        }
+    },
+    "19": {
+        "id": "swsh10a_19",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Fighting"
+        ],
+        "hp": 200,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zapdos de Galar V",
+        "name": {
+            "de": "Galar-Zapdos-V",
+            "en": "Galarian Zapdos V",
+            "es": "Zapdos de Galar V",
+            "fr": "Électhor de Galar-V",
+            "it": "Zapdos di Galar-V",
+            "la": "Zapdos de Galar V",
+            "ptbr": "Zapdos de Galar V"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 1,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Thunderous Kick",
+                    "text": "Before doing damage, discard a Special Energy from your opponent's Active Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Donnernder Tritt",
+                    "text": "Bevor du Schaden zufügst, lege 1 Spezial-Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."
+                },
+                "es": {
+                    "name": "Patada Relámpago",
+                    "text": "Antes de infligir daño, descarta 1 Energía Especial del Pokémon Activo de tu rival."
+                },
+                "fr": {
+                    "name": "Coup Fulgurant",
+                    "text": "Avant d'infliger des dégâts, défaussez une Énergie spéciale du Pokémon Actif de votre adversaire."
+                },
+                "it": {
+                    "name": "Calcio Tonante",
+                    "text": "Prima di infliggere danni, scarta un'Energia speciale dal Pokémon attivo del tuo avversario."
+                },
+                "la": {
+                    "name": "Patada Relámpago",
+                    "text": "Antes de infligir daño, descarta 1 Energía Especial del Pokémon Activo de tu rival."
+                },
+                "ptbr": {
+                    "name": "Chute Trovejante",
+                    "text": "Antes de causar dano, descarte 1 Energia Especial do Pokémon Ativo do seu oponente."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Fighting Instinct",
+                    "text": "This Pokémon's attacks cost colorless less for each of your opponent's Pokémon v_atk in play."
+                },
+                "de": {
+                    "name": "[Ability] Kampfinstinkt",
+                    "text": "Die Kosten der Attacken dieses Pokémon verringern sich für jedes Pokémon-v_atk deines Gegners im Spiel um colorless."
+                },
+                "es": {
+                    "name": "[Ability] Instinto de Lucha",
+                    "text": "Los ataques de este Pokémon cuestan colorless menos por cada uno de los Pokémon v_atk en juego de tu rival."
+                },
+                "fr": {
+                    "name": "[Ability] Instinct de Combat",
+                    "text": "Les attaques de ce Pokémon coûtent colorless de moins pour chaque Pokémon-v_atk en jeu de votre adversaire."
+                },
+                "it": {
+                    "name": "[Ability] Istinto da Combattente",
+                    "text": "Il costo degli attacchi di questo Pokémon è ridotto di colorless per ogni Pokémon-v_atk in gioco del tuo avversario."
+                },
+                "la": {
+                    "name": "[Ability] Instinto de Lucha",
+                    "text": "Los ataques de este Pokémon cuestan colorless menos por cada uno de los Pokémon v_atk en juego de tu rival."
+                },
+                "ptbr": {
+                    "name": "[Ability] Instinto de Luta",
+                    "text": "Os ataques deste Pokémon custam colorless a menos para cada Pokémon v_atk do seu oponente em jogo."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Psychic",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "20": {
+        "id": "swsh10a_20",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "hp": 220,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Moltres de Galar V",
+        "name": {
+            "de": "Galar-Lavados-V",
+            "en": "Galarian Moltres V",
+            "es": "Moltres de Galar V",
+            "fr": "Sulfura de Galar-V",
+            "it": "Moltres di Galar-V",
+            "la": "Moltres de Galar V",
+            "ptbr": "Moltres de Galar V"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Aura Burn",
+                    "text": "This Pokémon also does 30 damage to itself."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Aurabrand",
+                    "text": "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu."
+                },
+                "es": {
+                    "name": "Aura Abrasadora",
+                    "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."
+                },
+                "fr": {
+                    "name": "Aura Ardente",
+                    "text": "Ce Pokémon s'inflige aussi 30 dégâts."
+                },
+                "it": {
+                    "name": "Scottaura",
+                    "text": "Questo Pokémon infligge anche 30 danni a se stesso."
+                },
+                "la": {
+                    "name": "Aura Abrasadora",
+                    "text": "Este Pokémon también se hace 30 puntos de daño a sí mismo."
+                },
+                "ptbr": {
+                    "name": "Aura Ardente",
+                    "text": "Este Pokémon também causa 30 pontos de dano a si mesmo."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Direflame Wings",
+                    "text": "Once during your turn, you may attach a darkness Energy card from your discard pile to this Pokémon. You can't use more than 1 Direflame Wings Ability each turn."
+                },
+                "de": {
+                    "name": "[Ability] Flammende Schattenflügel",
+                    "text": "Einmal während deines Zuges kannst du 1 darkness-Energiekarte aus deinem Ablagestapel an dieses Pokémon anlegen. Du kannst immer nur jeweils 1 Fähigkeit Flammende Schattenflügel einsetzen."
+                },
+                "es": {
+                    "name": "[Ability] Alas Incendiarias",
+                    "text": "Una vez durante tu turno, puedes unir 1 carta de Energía darkness de tu pila de descartes a este Pokémon. No puedes usar más de 1 habilidad Alas Incendiarias en cada turno."
+                },
+                "fr": {
+                    "name": "[Ability] Ailes Ténébraises",
+                    "text": "Une fois pendant votre tour, vous pouvez attacher une carte Énergie darkness de votre pile de défausse à ce Pokémon. Vous ne pouvez utiliser qu'un talent Ailes Ténébraises par tour."
+                },
+                "it": {
+                    "name": "[Ability] Ali Estremafiamma",
+                    "text": "Una sola volta durante il tuo turno, puoi assegnare a questo Pokémon una carta Energia darkness dalla tua pila degli scarti. Puoi usare l'abilità Ali Estremafiamma solo una volta per turno."
+                },
+                "la": {
+                    "name": "[Ability] Alas Incendiarias",
+                    "text": "Una vez durante tu turno, puedes unir 1 carta de Energía darkness de tu pila de descartes a este Pokémon. No puedes usar más de 1 habilidad Alas Incendiarias en cada turno."
+                },
+                "ptbr": {
+                    "name": "[Ability] Asas de Fogaréu",
+                    "text": "Uma vez durante o seu turno, você poderá ligar 1 carta de Energia darkness da sua pilha de descarte a este Pokémon. Você não pode usar mais de 1 Habilidade Asas de Fogaréu por turno."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Grass",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "21": {
+        "id": "swsh10a_21",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 220,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zacian V",
+        "evolvesInto": {
+            "de": [
+                "Zacian VSTAR"
+            ],
+            "en": [
+                "Zacian VSTAR"
+            ],
+            "es": [
+                "Zacian VSTAR"
+            ],
+            "fr": [
+                "Zacian VSTAR"
+            ],
+            "it": [
+                "Zacian VSTAR"
+            ],
+            "la": [
+                "Zacian VSTAR"
+            ],
+            "ptbr": [
+                "Zacian VSTAR"
+            ]
+        },
+        "name": {
+            "de": "Zacian-V",
+            "en": "Zacian V",
+            "es": "Zacian V",
+            "fr": "Zacian-V",
+            "it": "Zacian-V",
+            "la": "Zacian V",
+            "ptbr": "Zacian V"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Brave Blade",
+                    "text": "During your next turn, this Pokémon can't attack."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Couragierte Klinge",
+                    "text": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen."
+                },
+                "es": {
+                    "name": "Cuchilla Osada",
+                    "text": "Durante tu próximo turno, este Pokémon no puede atacar."
+                },
+                "fr": {
+                    "name": "Lame Vaillante",
+                    "text": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."
+                },
+                "it": {
+                    "name": "Baldalama",
+                    "text": "Durante il tuo prossimo turno, questo Pokémon non può attaccare."
+                },
+                "la": {
+                    "name": "Cuchilla Osada",
+                    "text": "Durante tu próximo turno, este Pokémon no puede atacar."
+                },
+                "ptbr": {
+                    "name": "Lâmina Valente",
+                    "text": "Durante o seu próximo turno, este Pokémon não poderá atacar."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Intrepid Sword",
+                    "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of metal Energy cards you find there to this Pokémon. Put the other cards into your hand. If you use this Ability, your turn ends."
+                },
+                "de": {
+                    "name": "[Ability] Kühnes Schwert",
+                    "text": "Einmal während deines Zuges kannst du dir die obersten 3 Karten deines Decks anschauen und beliebig viele metal-Energiekarten, die du dort findest, an dieses Pokémon anlegen. Nimm die anderen Karten auf deine Hand. Wenn du diese Fähigkeit einsetzt, endet dein Zug."
+                },
+                "es": {
+                    "name": "[Ability] Espada Indómita",
+                    "text": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía metal que encuentres entre ellas a este Pokémon. Pon el resto de las cartas en tu mano. Si usas esta habilidad, tu turno termina."
+                },
+                "fr": {
+                    "name": "[Ability] Lame Indomptable",
+                    "text": "Une fois pendant votre tour, vous pouvez regarder les 3 cartes du dessus de votre deck, puis attacher à ce Pokémon le nombre voulu de cartes Énergie metal que vous y trouvez. Ajoutez les autres cartes à votre main. Si vous utilisez ce talent, votre tour se termine."
+                },
+                "it": {
+                    "name": "[Ability] Spada Indomita",
+                    "text": "Una sola volta durante il tuo turno, puoi guardare le prime tre carte del tuo mazzo e assegnare un numero qualsiasi di carte Energia metal presenti tra esse a questo Pokémon. Aggiungi le altre carte a quelle che hai in mano. Se usi questa abilità, il tuo turno finisce."
+                },
+                "la": {
+                    "name": "[Ability] Espada Indómita",
+                    "text": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía metal que encuentres entre ellas a este Pokémon. Pon el resto de las cartas en tu mano. Si usas esta habilidad, tu turno termina."
+                },
+                "ptbr": {
+                    "name": "[Ability] Espada Intrépida",
+                    "text": "Uma vez durante o seu turno, você poderá olhar as 3 cartas de cima do seu baralho e ligar qualquer número de cartas de Energia metal que encontrar lá a este Pokémon. Coloque as outras cartas na sua mão. Se você usar esta Habilidade, o seu turno acabará."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Fire",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Grass",
+            "amount": "-30"
+        }
+    },
+    "22": {
+        "id": "swsh10a_22",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Metal"
+        ],
+        "hp": 230,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Zamazenta V",
+        "evolvesInto": {
+            "de": [
+                "Zamazenta VSTAR"
+            ],
+            "en": [
+                "Zamazenta VSTAR"
+            ],
+            "es": [
+                "Zamazenta VSTAR"
+            ],
+            "fr": [
+                "Zamazenta VSTAR"
+            ],
+            "it": [
+                "Zamazenta VSTAR"
+            ],
+            "la": [
+                "Zamazenta VSTAR"
+            ],
+            "ptbr": [
+                "Zamazenta VSTAR"
+            ]
+        },
+        "name": {
+            "de": "Zamazenta-V",
+            "en": "Zamazenta V",
+            "es": "Zamazenta V",
+            "fr": "Zamazenta-V",
+            "it": "Zamazenta-V",
+            "la": "Zamazenta V",
+            "ptbr": "Zamazenta V"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Assault Tackle",
+                    "text": "Discard a Special Energy from your opponent's Active Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Überfalltackle",
+                    "text": "Lege 1 Spezial-Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."
+                },
+                "es": {
+                    "name": "Placaje Asalto",
+                    "text": "Descarta 1 Energía Especial del Pokémon Activo de tu rival."
+                },
+                "fr": {
+                    "name": "Tacle Assaillant",
+                    "text": "Défaussez une Énergie spéciale du Pokémon Actif de votre adversaire."
+                },
+                "it": {
+                    "name": "Azione d'Assalto",
+                    "text": "Scarta un'Energia speciale dal Pokémon attivo del tuo avversario."
+                },
+                "la": {
+                    "name": "Placaje Asalto",
+                    "text": "Descarta 1 Energía Especial del Pokémon Activo de tu rival."
+                },
+                "ptbr": {
+                    "name": "Investida Ofensiva",
+                    "text": "Descarte 1 Energia Especial do Pokémon Ativo do seu oponente."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Dauntless Shield",
+                    "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon vMax_atk."
+                },
+                "de": {
+                    "name": "[Ability] Wackerer Schild",
+                    "text": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon-vMax_atk deines Gegners zugefügt wird."
+                },
+                "es": {
+                    "name": "[Ability] Escudo Recio",
+                    "text": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon vMax_atk de tu rival."
+                },
+                "fr": {
+                    "name": "[Ability] Égide Inflexible",
+                    "text": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon-vMax_atk de votre adversaire."
+                },
+                "it": {
+                    "name": "[Ability] Scudo Saldo",
+                    "text": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-vMax_atk del tuo avversario."
+                },
+                "la": {
+                    "name": "[Ability] Escudo Recio",
+                    "text": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon vMax_atk de tu rival."
+                },
+                "ptbr": {
+                    "name": "[Ability] Escudo Destemido",
+                    "text": "Previna todo o dano causado a este Pokémon por ataques dos Pokémon vMax_atk do seu oponente."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Fire",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Grass",
+            "amount": "-30"
+        }
+    },
+    "23": {
+        "id": "swsh10a_23",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic Stage",
+            "V"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "hp": 200,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Garchomp V",
+        "name": {
+            "de": "Knakrack-V",
+            "en": "Garchomp V",
+            "es": "Garchomp V",
+            "fr": "Carchacrok-V",
+            "it": "Garchomp-V",
+            "la": "Garchomp V",
+            "ptbr": "Garchomp V"
+        },
+        "regulation": "F",
+        "rarity": {
+            "CompSea": "CharacterRareHoloV",
+            "Dust": "CharacterRareHoloV",
+            "Loc": "CharacterRareHoloV"
+        },
+        "retreat": 0,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Dragon Claw",
+                    "text": ""
+                },
+                "cost": "WFC",
+                "damage": "120",
+                "de": {
+                    "name": "Drachenklaue",
+                    "text": ""
+                },
+                "es": {
+                    "name": "Garra Dragón",
+                    "text": ""
+                },
+                "fr": {
+                    "name": "Draco-Griffe",
+                    "text": ""
+                },
+                "it": {
+                    "name": "Dragartigli",
+                    "text": ""
+                },
+                "la": {
+                    "name": "Garra Dragón",
+                    "text": ""
+                },
+                "ptbr": {
+                    "name": "Garra de Dragão",
+                    "text": ""
+                }
+            },
+            {
+                "en": {
+                    "name": "Sonic Strike",
+                    "text": "Discard 3 Energy from this Pokémon. This attack does 220 damage to 1 of your opponent's Pokémon. <i>(Don't apply Weakness and Resistance for Benched Pokémon.)</i>"
+                },
+                "cost": "WFC",
+                "damage": "120",
+                "de": {
+                    "name": "Überschallschlag",
+                    "text": "Lege 3 Energien von diesem Pokémon auf deinen Ablagestapel. Diese Attacke fügt 1 Pokémon deines Gegners 220 Schadenspunkte zu. <i>(Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)</i>"
+                },
+                "es": {
+                    "name": "Golpe Sónico",
+                    "text": "Descarta 3 Energías de este Pokémon. Este ataque hace 220 puntos de daño a 1 de los Pokémon de tu rival. <i>(No apliques Debilidad y Resistencia a los Pokémon en Banca).</i>"
+                },
+                "fr": {
+                    "name": "Frappe Sonique",
+                    "text": "Défaussez 3 Énergies de ce Pokémon. Cette attaque inflige 220 dégâts à l'un des Pokémon de votre adversaire. <i>(N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)</i>"
+                },
+                "it": {
+                    "name": "Colpo Sonico",
+                    "text": "Scarta tre Energie da questo Pokémon. Questo attacco infligge 220 danni a uno dei Pokémon del tuo avversario. <i>Non applicare debolezza e resistenza ai Pokémon in panchina.</i>"
+                },
+                "la": {
+                    "name": "Golpe Sónico",
+                    "text": "Descarta 3 Energías de este Pokémon. Este ataque hace 220 puntos de daño a 1 de los Pokémon de tu rival. <i>(No apliques Debilidad y Resistencia a los Pokémon en Banca).</i>"
+                },
+                "ptbr": {
+                    "name": "Golpe Sônico",
+                    "text": "Descarte 3 Energias deste Pokémon. Este ataque causa 220 pontos de dano a 1 dos Pokémon do seu oponente <i>(não aplique Fraqueza e Resistência aos Pokémon no Banco).</i>"
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "",
+            "amount": ""
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "24": {
+        "id": "swsh10a_24",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "name": {
+            "de": "Nio",
+            "en": "Allister",
+            "es": "Alistair",
+            "fr": "Alistair",
+            "it": "Onion",
+            "la": "Alistair",
+            "ptbr": "Allister"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRareUltra",
+            "Dust": "CharacterRareUltra",
+            "Loc": "CharacterRareUltra"
+        },
+        "retreat": 0,
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": {
+            "type": "",
+            "amount": ""
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "25": {
+        "id": "swsh10a_25",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "name": {
+            "de": "Saida",
+            "en": "Bea",
+            "es": "Judith",
+            "fr": "Faïza",
+            "it": "Fabia",
+            "la": "Judith",
+            "ptbr": "Bia"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRareUltra",
+            "Dust": "CharacterRareUltra",
+            "Loc": "CharacterRareUltra"
+        },
+        "retreat": 0,
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": {
+            "type": "",
+            "amount": ""
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "26": {
+        "id": "swsh10a_26",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "name": {
+            "de": "Mel",
+            "en": "Melony",
+            "es": "Mel",
+            "fr": "Lona",
+            "it": "Melania",
+            "la": "Mel",
+            "ptbr": "Melony"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareUltra",
+            "Dust": "CharacterRareUltra",
+            "Loc": "CharacterRareUltra"
+        },
+        "retreat": 0,
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": {
+            "type": "",
+            "amount": ""
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "27": {
+        "id": "swsh10a_27",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "name": {
+            "de": "Yarro",
+            "en": "Milo",
+            "es": "Percy",
+            "fr": "Percy",
+            "it": "Yarrow",
+            "la": "Percy",
+            "ptbr": "Milo"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRareUltra",
+            "Dust": "CharacterRareUltra",
+            "Loc": "CharacterRareUltra"
+        },
+        "retreat": 0,
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": {
+            "type": "",
+            "amount": ""
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "28": {
+        "id": "swsh10a_28",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Supporter"
+        ],
+        "types": [],
+        "hp": 0,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "name": {
+            "de": "Nezz",
+            "en": "Piers",
+            "es": "Nerio",
+            "fr": "Peterson",
+            "it": "Ginepro",
+            "la": "Nerio",
+            "ptbr": "Pietro"
+        },
+        "regulation": "D",
+        "rarity": {
+            "CompSea": "CharacterRareUltra",
+            "Dust": "CharacterRareUltra",
+            "Loc": "CharacterRareUltra"
+        },
+        "retreat": 0,
+        "attacks": [],
+        "abilities": [],
+        "weaknesses": {
+            "type": "",
+            "amount": ""
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "29": {
+        "id": "swsh10a_29",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "VMAX"
+        ],
+        "types": [
+            "Water"
+        ],
+        "hp": 320,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Calyrex Cavaleiro Glacial V",
+        "name": {
+            "de": "Schimmelreiter-Coronospa-VMAX",
+            "en": "Ice Rider Calyrex VMAX",
+            "es": "Calyrex Jinete Glacial VMAX",
+            "fr": "Sylveroy Cavalier du Froid-VMAX",
+            "it": "Calyrex Cavaliere Glaciale-VMAX",
+            "la": "Calyrex Jinete Glacial VMAX",
+            "ptbr": "Calyrex Cavaleiro Glacial VMAX"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareSecret",
+            "Dust": "CharacterRareSecret",
+            "Loc": "CharacterRareSecret"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Ride of the High King",
+                    "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+                },
+                "cost": "CC",
+                "damage": "10+",
+                "de": {
+                    "name": "Ritt des Kaisers",
+                    "text": "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 30 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Paseo del Emperador",
+                    "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."
+                },
+                "fr": {
+                    "name": "Chevauchée Impériale",
+                    "text": "Cette attaque inflige 30 dégâts supplémentaires pour chacun des Pokémon de Banc de votre adversaire."
+                },
+                "it": {
+                    "name": "Cavalcata dell'Imperatore",
+                    "text": "Questo attacco infligge 30 danni in più per ogni Pokémon nella panchina del tuo avversario."
+                },
+                "la": {
+                    "name": "Paseo del Emperador",
+                    "text": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."
+                },
+                "ptbr": {
+                    "name": "Montaria do Rei Supremo",
+                    "text": "Este ataque causa 30 pontos de dano a mais para cada Pokémon no Banco do seu oponente."
+                }
+            },
+            {
+                "en": {
+                    "name": "Max Lance",
+                    "text": "You may discard up to 2 Energy from this Pokémon. If you do, this attack does 120 more damage for each card you discarded in this way."
+                },
+                "cost": "CC",
+                "damage": "10+",
+                "de": {
+                    "name": "Dyna-Lanze",
+                    "text": "Du kannst bis zu 2 Energien von diesem Pokémon auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke für jede auf diese Weise abgelegte Karte 120 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Maxilanza",
+                    "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."
+                },
+                "fr": {
+                    "name": "Lançomax",
+                    "text": "Vous pouvez défausser jusqu'à 2 Énergies de ce Pokémon. Dans ce cas, cette attaque inflige 120 dégâts supplémentaires pour chaque carte défaussée de cette façon."
+                },
+                "it": {
+                    "name": "Dynalancia",
+                    "text": "Puoi scartare fino a due Energie da questo Pokémon. Se lo fai, questo attacco infligge 120 danni in più per ogni carta che hai scartato in questo modo."
+                },
+                "la": {
+                    "name": "Maxilanza",
+                    "text": "Puedes descartar hasta 2 Energías de este Pokémon. Si lo haces, este ataque hace 120 puntos de daño más por cada carta que hayas descartado de esta manera."
+                },
+                "ptbr": {
+                    "name": "Lança Longa Max",
+                    "text": "Você pode descartar até 2 Energias deste Pokémon. Se fizer isto, este ataque causará 120 pontos de dano a mais para cada carta descartada desta forma."
+                }
+            }
+        ],
+        "abilities": [],
+        "weaknesses": {
+            "type": "Metal",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "",
+            "amount": ""
+        }
+    },
+    "30": {
+        "id": "swsh10a_30",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "VMAX"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "hp": 320,
+        "Release Date": "2022-05-24T17:00:00.0000000Z",
+        "Craftable Date": "2022-05-24 19:00:00",
+        "Craftable": 1,
+        "baseEvolution": "Calyrex Cavaleiro Espectral V",
+        "name": {
+            "de": "Rappenreiter-Coronospa-VMAX",
+            "en": "Shadow Rider Calyrex VMAX",
+            "es": "Calyrex Jinete Espectral VMAX",
+            "fr": "Sylveroy Cavalier d'Effroi-VMAX",
+            "it": "Calyrex Cavaliere Spettrale-VMAX",
+            "la": "Calyrex Jinete Espectral VMAX",
+            "ptbr": "Calyrex Cavaleiro Espectral VMAX"
+        },
+        "regulation": "E",
+        "rarity": {
+            "CompSea": "CharacterRareSecret",
+            "Dust": "CharacterRareSecret",
+            "Loc": "CharacterRareSecret"
+        },
+        "retreat": 2,
+        "attacks": [
+            {
+                "en": {
+                    "name": "Max Geist",
+                    "text": "This attack does 30 more damage for each psychic Energy attached to all of your Pokémon."
+                },
+                "cost": "",
+                "damage": "",
+                "de": {
+                    "name": "Dyna-Geist",
+                    "text": "Diese Attacke fügt für jede an alle deine Pokémon angelegte psychic-Energie 30 Schadenspunkte mehr zu."
+                },
+                "es": {
+                    "name": "Maxiespíritu",
+                    "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."
+                },
+                "fr": {
+                    "name": "Spiritomax",
+                    "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie psychic attachée à tous vos Pokémon."
+                },
+                "it": {
+                    "name": "Dynaspirito",
+                    "text": "Questo attacco infligge 30 danni in più per ogni Energia psychic assegnata ai tuoi Pokémon."
+                },
+                "la": {
+                    "name": "Maxiespíritu",
+                    "text": "Este ataque hace 30 puntos de daño más por cada Energía psychic unida a todos tus Pokémon."
+                },
+                "ptbr": {
+                    "name": "Assombração Max",
+                    "text": "Este ataque causa 30 pontos de dano a mais para cada Energia psychic ligada a todos os seus Pokémon."
+                }
+            }
+        ],
+        "abilities": [
+            {
+                "en": {
+                    "name": "[Ability] Underworld Door",
+                    "text": "Once during your turn, you may attach a psychic Energy card from your hand to 1 of your Benched psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards."
+                },
+                "de": {
+                    "name": "[Ability] Tür zur Unterwelt",
+                    "text": "Einmal während deines Zuges kannst du 1 psychic-Energiekarte aus deiner Hand an 1 psychic-Pokémon auf deiner Bank anlegen. Wenn du auf diese Weise Energie an ein Pokémon angelegt hast, ziehe 2 Karten."
+                },
+                "es": {
+                    "name": "[Ability] Puerta del Inframundo",
+                    "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."
+                },
+                "fr": {
+                    "name": "[Ability] Porte des Abîmes",
+                    "text": "Une fois pendant votre tour, vous pouvez attacher une carte Énergie psychic de votre main à l'un de vos Pokémon psychic de Banc. Si vous avez attaché de l'Énergie à un Pokémon de cette façon, piochez 2 cartes."
+                },
+                "it": {
+                    "name": "[Ability] Portale Sottomondo",
+                    "text": "Una sola volta durante il tuo turno, puoi assegnare a uno dei tuoi Pokémon psychic in panchina una carta Energia psychic dalla tua mano. Se hai assegnato dell'Energia a un Pokémon in questo modo, pesca due carte."
+                },
+                "la": {
+                    "name": "[Ability] Puerta del Inframundo",
+                    "text": "Una vez durante tu turno, puedes unir 1 carta de Energía psychic de tu mano a 1 de tus Pokémon psychic en Banca. Si has unido Energía a un Pokémon de esta manera, roba 2 cartas."
+                },
+                "ptbr": {
+                    "name": "[Ability] Portão do Submundo",
+                    "text": "Uma vez durante o seu turno, você poderá ligar 1 carta de Energia psychic da sua mão a 1 dos seus Pokémon psychic no Banco. Se você ligou Energia a um Pokémon desta forma, compre 2 cartas."
+                }
+            }
+        ],
+        "weaknesses": {
+            "type": "Dark",
+            "amount": "2"
+        },
+        "resistance": {
+            "type": "Fighting",
+            "amount": "-30"
+        }
+    }
+}
